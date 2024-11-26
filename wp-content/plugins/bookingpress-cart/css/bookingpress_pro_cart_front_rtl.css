@@ -1,0 +1,35 @@
+.bpa-ci__service-brief .bpa-ci__expand-icon{
+    margin-left: 12px;
+    margin-right: 0;
+}
+.bpa-cart__item .bpa-ci__service-brief .bpa-sb--right{
+    margin-right: 12px;
+    margin-left: 0;
+}
+.bpa-cart__item-total-deposit .bpa-cit__item-deposit-label{
+    margin-right: 4px;
+    margin-left: 0;
+}
+.bpa-cart__item .bpa-ci__service-actions{
+    right: auto;
+    left: 12px;
+}
+.bpa-cart-iev__head .bpa-cart-iev__h-item{
+    border-left: 1px solid var(--bpa-gt-gray-400);
+    border-right: none;
+}
+.bpa-cart-iev__head .bpa-cart-iev__h-item:last-child{
+    border-left: none;
+}
+.bpa-cart-exi__left .bpa-cart-exi-left__opts .bpa-cart-exi__qty{
+    margin-right: 12px;
+    margin-left: 0;
+}
+.bpa-front-module--cart .bpa-front-module-heading .bpa-fmc--head-counter{
+    margin-right: 12px;
+    margin-left: 0;
+}
+.bpa-cart-item--sm .bpa-ci__head-options-row .bpa-hl__service-duration svg{
+    margin-left: 4px;
+    margin-right: 0;
+}

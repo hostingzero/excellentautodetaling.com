@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Google Calendar Integration Addon v2.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-06-26 07:45:50+0000\n"
+"Last-Translator: admin <testrepute123@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: bookingpress-google-calendar.php:0
+#@ bookingpress-google-calendar
+msgid "BookingPress - Google Calendar Integration Addon"
+msgstr "BookingPress — надстройка для интеграции с календарем Google"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: bookingpress-google-calendar.php:0
+#@ bookingpress-google-calendar
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+#. translators: plugin header field 'Description'
+#: bookingpress-google-calendar.php:0
+#@ bookingpress-google-calendar
+msgid "Extension for BookingPress plugin to add appointment in google Calendar."
+msgstr "Расширение для плагина BookingPress для добавления встречи в Календарь Google."
+
+#. translators: plugin header field 'Author'
+#: bookingpress-google-calendar.php:0
+#@ bookingpress-google-calendar
+msgid "Repute InfoSystems"
+msgstr "Repute InfoSystems"
+
+#: core/classes/class.bookingpress-google-calendar.php:209
+#: core/classes/class.bookingpress-google-calendar.php:1422
+#: core/classes/class.bookingpress-google-calendar.php:1502
+#@ bookingpress-google-calendar
+msgid "Google Calendar"
+msgstr "Календарь Google"
+
+#: core/classes/class.bookingpress-google-calendar.php:1482
+#@ bookingpress-google-calendar
+msgid "Please Enter the Client ID"
+msgstr "Пожалуйста, введите идентификатор клиента"
+
+#: core/classes/class.bookingpress-google-calendar.php:1489
+#@ bookingpress-google-calendar
+msgid "Please Enter the Client Secret"
+msgstr "Пожалуйста, введите секрет клиента"
+
+#: core/classes/class.bookingpress-google-calendar.php:1507
+#@ bookingpress-google-calendar
+msgid "Save"
+msgstr "Сохранять"
+
+#: core/classes/class.bookingpress-google-calendar.php:1525
+#@ bookingpress-google-calendar
+msgid "Google Calendar Integration requires Staff Member Module to be activated."
+msgstr "Интеграция с Календарем Google требует активации модуля Staff Member."
+
+#: core/classes/class.bookingpress-google-calendar.php:1532
+#@ bookingpress-google-calendar
+msgid "Client Id"
+msgstr "ID клиента"
+
+#: core/classes/class.bookingpress-google-calendar.php:1536
+#@ bookingpress-google-calendar
+msgid "Enter client id"
+msgstr "Введите идентификатор клиента"
+
+#: core/classes/class.bookingpress-google-calendar.php:1542
+#@ bookingpress-google-calendar
+msgid "Client Secret"
+msgstr "Секрет клиента"
+
+#: core/classes/class.bookingpress-google-calendar.php:1546
+#@ bookingpress-google-calendar
+msgid "Enter client secret"
+msgstr "Введите секрет клиента"
+
+#: core/classes/class.bookingpress-google-calendar.php:1552
+#@ bookingpress-google-calendar
+msgid "Redirect URL"
+msgstr "URL-адрес перенаправления"
+
+#: core/classes/class.bookingpress-google-calendar.php:1573
+#@ bookingpress-google-calendar
+msgid "Event Settings"
+msgstr "Настройки события"
+
+#: core/classes/class.bookingpress-google-calendar.php:1577
+#@ bookingpress-google-calendar
+msgid "Event Title"
+msgstr "Название события"
+
+#: core/classes/class.bookingpress-google-calendar.php:1581
+#@ bookingpress-google-calendar
+msgid "Enter event title"
+msgstr "Введите название мероприятия"
+
+#: core/classes/class.bookingpress-google-calendar.php:1587
+#@ bookingpress-google-calendar
+msgid "Event Description"
+msgstr "Описание события"
+
+#: core/classes/class.bookingpress-google-calendar.php:1591
+#@ bookingpress-google-calendar
+msgid "Enter event description"
+msgstr "Введите описание события"
+
+#: core/classes/class.bookingpress-google-calendar.php:1610
+#@ bookingpress-google-calendar
+msgid "Insert Placeholders"
+msgstr "Вставить заполнители"
+
+#: core/classes/class.bookingpress-google-calendar.php:1617
+#@ bookingpress-google-calendar
+msgid "Customer"
+msgstr "Покупатель"
+
+#: core/classes/class.bookingpress-google-calendar.php:1624
+#@ bookingpress-google-calendar
+msgid "Service"
+msgstr "обслуживание"
+
+#: core/classes/class.bookingpress-google-calendar.php:1633
+#@ bookingpress-google-calendar
+msgid "Company"
+msgstr "Компания"
+
+#: core/classes/class.bookingpress-google-calendar.php:1641
+#@ bookingpress-google-calendar
+msgid "Staff Member"
+msgstr "Штатный сотрудник"
+
+#: core/classes/class.bookingpress-google-calendar.php:1651
+#@ bookingpress-google-calendar
+msgid "Appointment"
+msgstr "Деловое свидание, встреча"
+
+#: core/classes/class.bookingpress-google-calendar.php:1664
+#@ bookingpress-google-calendar
+msgid "Enable Google Meet"
+msgstr "Включить Google Meet"
+
+#: core/classes/class.bookingpress-google-calendar.php:1673
+#@ bookingpress-google-calendar
+msgid "Staff Member Related Settings"
+msgstr "Настройки, связанные с сотрудником"
+
+#: core/classes/class.bookingpress-google-calendar.php:1677
+#@ bookingpress-google-calendar
+msgid "Maximum Number Of Events Returned"
+msgstr "Максимальное количество возвращенных событий"
+
+#: core/classes/class.bookingpress-google-calendar.php:1681
+#@ bookingpress-google-calendar
+msgid "Enter maximum number of event returned"
+msgstr "Введите максимальное количество возвращенных событий"
+
+#: core/classes/class.bookingpress-google-calendar.php:1792
+#@ bookingpress-google-calendar
+msgid "BookingPress - Google Calendar Integration plugin requires BookingPress Premium Plugin installed and active."
+msgstr "Для плагина BookingPress – интеграции с календарем Google требуется установленный и активный плагин BookingPress Premium."
+
+#: core/classes/class.bookingpress-google-calendar.php:1817
+#@ bookingpress-google-calendar
+msgid "Placeholder copied"
+msgstr "Заполнитель скопирован"
+
+#: core/classes/class.bookingpress-google-calendar.php:279
+#: core/classes/class.bookingpress-google-calendar.php:1301
+#: core/classes/class.bookingpress-google-calendar.php:1833
+#: core/classes/class.bookingpress-google-calendar.php:1835
+#@ bookingpress-google-calendar
+msgid "Success"
+msgstr "Успех"
+
+#: core/classes/class.bookingpress-google-calendar.php:227
+#: core/classes/class.bookingpress-google-calendar.php:236
+#: core/classes/class.bookingpress-google-calendar.php:1210
+#: core/classes/class.bookingpress-google-calendar.php:2150
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+#@ bookingpress-google-calendar
+msgid "Error"
+msgstr "Ошибка"
+
+#: core/classes/class.bookingpress-google-calendar.php:2151
+#@ bookingpress-google-calendar
+msgid "Please select the google calendar"
+msgstr "Пожалуйста, выберите календарь Google"
+
+#: core/classes/class.bookingpress-google-calendar.php:2184
+#@ bookingpress-google-calendar
+msgid "Google Calendar Integration"
+msgstr "Интеграция с календарем Google"
+
+#: core/classes/class.bookingpress-google-calendar.php:2192
+#@ bookingpress-google-calendar
+msgid "Select Google Calendar"
+msgstr "Выберите Календарь Google"
+
+#: core/classes/class.bookingpress-google-calendar.php:2231
+#@ bookingpress-google-calendar
+msgid "Sign In With Google"
+msgstr "Войти через Google"
+
+#: core/classes/class.bookingpress-google-calendar.php:3989
+#@ bookingpress-google-calendar
+msgid "Google Calendar Debug Logs"
+msgstr "Журналы отладки Календаря Google"
+
+#: core/classes/class.bookingpress-google-calendar.php:1302
+#@ bookingpress-google-calendar
+msgid "Sign out successfully."
+msgstr "Выйти успешно."
+
+#: core/classes/class.bookingpress-google-calendar.php:2230
+#@ bookingpress-google-calendar
+msgid "Sign Out from Google"
+msgstr "Выйти из Google"
+
+#: core/classes/class.bookingpress-google-calendar.php:1466
+#@ bookingpress-google-calendar
+msgid "Basic fields"
+msgstr "Основные поля"
+
+#: core/classes/class.bookingpress-google-calendar.php:1471
+#@ bookingpress-google-calendar
+msgid "Advanced fields"
+msgstr "Расширенные поля"
+
+#: core/classes/class.bookingpress-google-calendar.php:1797
+#@ bookingpress-google-calendar
+msgid "BookingPress - Google Calendar Integration plugin requires BookingPress Appointment Booking plugin installed with version 1.0.41 or higher"
+msgstr "Для плагина BookingPress для интеграции с календарем Google требуется установленный плагин BookingPress Appointment Booking версии 1.0.41 или выше."
+
+#: bookingpress-google-calendar.php:27
+#@ bookingpress-google-calendar
+msgid "BookingPress lite version 1.0.42 required to use BookingPress Google Calendar Add-on"
+msgstr "Для использования дополнения BookingPress Google Calendar требуется версия 1.0.42 BookingPress lite."
+
+#. translators: 1. Plugin deactivate url
+#: bookingpress-google-calendar.php:29
+#: bookingpress-google-calendar.php:105
+#: core/classes/class.bookingpress-google-calendar.php:1320
+#: core/classes/class.bookingpress-google-calendar.php:1333
+#: core/classes/class.bookingpress-google-calendar.php:1364
+#: core/classes/class.bookingpress-google-calendar.php:1375
+#, php-format
+#@ bookingpress-google-calendar
+msgid "Please %s Click Here %s to Continue"
+msgstr "Пожалуйста, %s Нажмите здесь %s, чтобы продолжить"
+
+#: core/classes/class.bookingpress-google-calendar.php:233
+#: core/classes/class.bookingpress-google-calendar.php:1207
+#@ bookingpress-google-calendar
+msgid "Sorry. Something went wrong while processing the request"
+msgstr "Извиняюсь. Что-то пошло не так при обработке запроса"
+
+#: core/classes/class.bookingpress-google-calendar.php:1805
+#@ bookingpress-google-calendar
+msgid "it's highly recommended to update the BookingPress Premium Plugin to version 1.2 or higher in order to use the BookingPress Google Calendar plugin"
+msgstr "настоятельно рекомендуется обновить подключаемый модуль BookingPress Premium до версии 1.2 или выше, чтобы использовать подключаемый модуль BookingPress Google Calendar."
+
+#: core/classes/class.bookingpress-google-calendar.php:1818
+#@ bookingpress-google-calendar
+msgid "URL copied successfully"
+msgstr "URL успешно скопирован"
+
+#. translators: 1. Staff member redirection link
+#: core/classes/class.bookingpress-google-calendar.php:903
+#, php-format
+#@ bookingpress-google-calendar
+msgid "Your access token for Google Calendar has been either expired or revoked. You need to re-authenticate from %s."
+msgstr "Срок действия вашего токена доступа к Календарю Google истек или отозван. Вам необходимо пройти повторную аутентификацию от %s."
+
+#: core/classes/class.bookingpress-google-calendar.php:1016
+#@ bookingpress-google-calendar
+msgid "Every 15 minutes"
+msgstr "каждые 15 минут"
+
+#: core/classes/class.bookingpress-google-calendar.php:1446
+#: core/classes/class.bookingpress-google-calendar.php:1601
+#@ bookingpress-google-calendar
+msgid "Select Field"
+msgstr "Выберите поле"
+
+#: core/classes/class.bookingpress-google-calendar.php:1597
+#@ bookingpress-google-calendar
+msgid "Event Location"
+msgstr "Место проведения"
+
+#. translators: the plugin name.
+#: core/classes/class.bookingpress-google-calendar.php:1567
+#, php-format
+#@ bookingpress-google-calendar
+msgid "Appointment synchronization with Google Calendar will depend on WordPress' cron mechanism and sometimes, it may not synchronize immediately due to WordPress' Cron limitations. If you want more accurate synchronization with Google Calendar, please follow the steps described %s here %s."
+msgstr "Синхронизация встреч с Календарем Google будет зависеть от механизма cron WordPress, и иногда она может не синхронизироваться сразу из-за ограничений WordPress Cron. Если вам нужна более точная синхронизация с Календарем Google, выполните шаги, описанные %s здесь %s."
+
+#: core/classes/class.bookingpress-google-calendar.php:371
+#: core/classes/class.bookingpress-google-calendar.php:461
+#: core/classes/class.bookingpress-google-calendar.php:800
+#@ bookingpress-google-calendar
+msgid "Google Meet"
+msgstr "Гугл встречи"
+
+#: core/classes/class.bookingpress-google-calendar.php:469
+#@ bookingpress-google-calendar
+msgid "Appointment Synchronization with Google Calendar"
+msgstr "Синхронизация встреч с Календарем Google"
+
+#: core/classes/class.bookingpress-google-calendar.php:228
+#@ bookingpress-google-calendar
+msgid "Calendar List Not Found"
+msgstr "Список календарей не найден"
+
+#: core/classes/class.bookingpress-google-calendar.php:280
+#@ bookingpress-google-calendar
+msgid "List has been refreshed successfully."
+msgstr "Список успешно обновлен."
+
+#: core/classes/class.bookingpress-google-calendar.php:2199
+#@ bookingpress-google-calendar
+msgid "Refresh Calendar List"
+msgstr "Обновить список календарей"
+
+#: bookingpress-google-calendar.php:59
+#: bookingpress-google-calendar.php:91
+#@ bookingpress-google-calendar
+msgid "An error occurred, please try again."
+msgstr "Произошла ошибка. Пожалуйста, попробуйте еще раз."
+
+#: bookingpress-google-calendar.php:67
+#, php-format
+#@ bookingpress-google-calendar
+msgid "Your license key expired on %s."
+msgstr "Срок действия вашего лицензионного ключа истек %s."
+
+#: bookingpress-google-calendar.php:72
+#@ bookingpress-google-calendar
+msgid "Your license key has been disabled."
+msgstr "Ваш лицензионный ключ отключен."
+
+#: bookingpress-google-calendar.php:75
+#@ bookingpress-google-calendar
+msgid "Invalid license."
+msgstr "Недействительная лицензия."
+
+#: bookingpress-google-calendar.php:79
+#@ bookingpress-google-calendar
+msgid "Your license is not active for this URL."
+msgstr "Ваша лицензия неактивна для этого URL."
+
+#: bookingpress-google-calendar.php:82
+#: bookingpress-google-calendar.php:85
+#@ bookingpress-google-calendar
+msgid "This appears to be an invalid license key for your selected package."
+msgstr "Похоже, это неверный лицензионный ключ для выбранного вами пакета."
+
+#: bookingpress-google-calendar.php:88
+#@ bookingpress-google-calendar
+msgid "Your license key has reached its activation limit."
+msgstr "Ваш лицензионный ключ достиг предела активации."
+
+#: bookingpress-google-calendar.php:104
+#: core/classes/class.bookingpress-google-calendar.php:1319
+#: core/classes/class.bookingpress-google-calendar.php:1332
+#: core/classes/class.bookingpress-google-calendar.php:1363
+#: core/classes/class.bookingpress-google-calendar.php:1374
+#@ bookingpress-google-calendar
+msgid "Please activate license of BookingPress premium plugin to use BookingPress Google Calendar Add-on"
+msgstr "Пожалуйста, активируйте лицензию премиум-плагина BookingPress, чтобы использовать дополнение BookingPress Google Calendar."
+
+#. translators: the plugin name.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:257
+#, php-format
+#@ bookingpress-google-calendar
+msgid "There is a new version of %1$s available."
+msgstr "Доступна новая версия %1$s."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:263
+#@ bookingpress-google-calendar
+msgid "Contact your network administrator to install the update."
+msgstr "Обратитесь к сетевому администратору, чтобы установить обновление."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:268
+#, php-format
+#@ bookingpress-google-calendar
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sПросмотреть версию %2$s подробнее%3$s."
+
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
+#: core/classes/class.bookingpress_pro_plugin_updater.php:277
+#, php-format
+#@ bookingpress-google-calendar
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sПосмотреть сведения о версии %2$s%3$s или %4$обновить сейчас%5$s."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:288
+#@ bookingpress-google-calendar
+msgid "Update now."
+msgstr "Обновить сейчас."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+#@ bookingpress-google-calendar
+msgid "You do not have permission to install plugin updates"
+msgstr "У вас нет разрешения на установку обновлений плагина."
+
+#. translators: plugin header field 'Version'
+#: bookingpress-google-calendar.php:0
+#@ bookingpress-google-calendar
+msgid "2.6"
+msgstr "2.6"
+

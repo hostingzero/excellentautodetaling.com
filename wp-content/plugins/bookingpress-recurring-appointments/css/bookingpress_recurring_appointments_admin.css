@@ -1,0 +1,211 @@
+.bpa-apc__recurring-icon{
+    font-size: 13px !important;
+}
+.bpa-grid-list-rec-appint-container{
+    min-height: 100px;
+}
+.bpa-recurring-appointment-body-loader{
+    min-height: 200px;
+}
+.bpa-recurring-appointment-body {
+    position: relative;
+}
+.bpa-recurring-appointment-body .bpa-lspd__item{
+    border: 1px solid var(--bpa-gt-gray-300);
+    border-radius: var(--bpa-radius-8px);
+    padding: 12px 20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    align-items: flex-start;
+    /* margin-bottom: 28px;  */
+    flex-direction: column;
+}
+
+.bpa-upcomming-appointments{
+    min-height: 126px;
+}
+
+.bpa-recurring-appointment-body .bpa-lspd__item .bpa-hh-item__date-col-date{
+    margin-bottom: 10px;
+}
+
+.bpa-recurring-appointment-body .bpa-upcomming-appointments{
+    position: relative;
+}
+.bpa-recurring-appointment-body .bpa-front-module-heading{
+    margin-bottom: 20px;
+    display: block;
+}
+
+.bpa-recurring-appointment-body .bpa-recurring-msg svg{
+	height: 22px;
+	width: 22px;
+	margin-right: 3px;
+	padding-top: 5px;
+}
+.bpa-recurring-appointment-body .bpa-recurring-msg span{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.bpa-recurring-appointment-body .bpa-card__item {
+    position: absolute;
+    right: 23px;    
+}
+
+.bpa-recurring-appointment-body .bpa-card__item .bpa-front-btn--icon-without-box{
+	justify-content: center;
+}
+.bpa-recurring-appointment-body .bpa-card__item .bpa-front-btn--icon-without-box:hover{
+	background-color: var(--bpa-pt-main-green) !important;
+	border-color: var(--bpa-pt-main-green) !important;
+}
+.bpa-recurring-appointment-body .bpa-card__item .bpa-front-btn--icon-without-box span .material-icons-round{ /* Material Icon Support - 02/01/2023 */
+	vertical-align: middle;
+}
+.bpa-recurring-appointment-body .bpa-card__item .bpa-front-btn--icon-without-box span svg{
+	vertical-align: middle;
+	fill: var(--bpa-dt-black-200);
+}
+.bpa-recurring-appointment-body .bpa-card__item .bpa-front-btn--icon-without-box:hover span svg{
+	fill: var(--bpa-cl-white);
+}
+.bpa-hh-item__date-col.bpa-hh-item__date-col-date span:nth-child(2),.bpa-recurring-msg span:nth-child(2){position: relative; top: -5px;}
+.bpa-upcomming-appointments .bpa-front-tm--item-icon svg { height: 18px; width: 18px;}
+/* popup css */
+.bpa-dialog--add-recurring-edit .bpa-add-categpry-container {
+    padding: 14px 0px 0px 0px;
+}
+.bpa-dialog--add-recurring-edit .bpa-grid-list-container .bpa-sd__time-selection{
+	/* align-items: flex-end; */
+}
+.bpa-dialog--add-recurring-edit .bpa-grid-list-container .bpa-sd__time-selection .el-col:first-child{
+	padding-right: 8px;
+}
+.bpa-dialog--add-recurring-edit .bpa-grid-list-container .bpa-sd__time-selection .el-col:last-child{
+	padding-left: 8px;
+}
+.bpa-dialog--add-recurring-edit .el-form-item__error{
+	left: 0;
+    margin-top: 3px;
+}
+.bpa-dialog--add-recurring-edit .bpa-dialog-body {
+    padding: 15px 25px 0px 25px !important;
+}
+.bpa-dialog--add-recurring-edit .bpa-dialog-body .el-form-item{
+    padding-right: 2px;
+}
+.bpa-dialog--add-recurring-edit .bpa-page-heading{
+    text-align: left;
+    display: contents;    
+}
+.bpa-dialog--add-recurring-edit .bpa-dialog-heading{
+    border-top-left-radius: var(--bpa-radius-6px);
+    border-top-right-radius: var(--bpa-radius-6px);
+}
+/*Manage appointment page popover */
+.bpa-dialog--rec-list.bpa-dialog { box-shadow: none; -webkit-box-shadow:none }
+.bpa-dialog--rec-list .bpa-dialog-body {
+    max-height: 345px;
+    overflow-y: auto;
+    padding: 20px 20px 24px 24px;
+}
+.bpa-dialog--rec-list .bpa-form-body-row { margin-bottom: 16px;}
+.bpa-dialog--rec-list {
+    border-radius: var(--bpa-radius-12px);
+    width: 100%;
+    max-width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: var(--bpa-cl-white);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.recurring_appointment_data-row {
+    margin-bottom: 16px;
+}
+.bpa-dialog--rec-list .bpa-dialog-footer{
+    padding: 16px 24px 16px 24px;
+}
+.bpa-dialog--rec-list .bpa-dialog-footer .el-button {padding: 12px 20px;}
+.bpa-dialog--rec-list .bpa-dialog-heading{ 
+    padding: 20px 20px 24px 24px; 
+    font-family: var(--bpa-secondary-font) !important;
+    color: var(--bpa-dt-black-400);
+}
+.rec-list-appointment-title { font-weight: 600; }
+.bpa-dialog--rec-list .bpa-rec-transaction-heading {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+}
+.bpa-upcomming-notavaliable .bpa-lspd__item{
+	border-color: #ff0000;
+	background-color:#ffe8e7;
+}
+.bpa-upcomming-suggested .bpa-lspd__item{
+	border-color: #F5AE41;
+	background-color:#f5eee5;
+}
+.bpa-rec-sec-heading{
+    padding-top:0px;
+    padding-bottom:30px;
+}
+.bpa-recurring-serv__heading{
+    font-weight: 600;
+}
+.bpa-recurring-appointment-body-content .bpa-hh-item__date-col-date{
+    margin-bottom: 4px;
+}
+.bpa-recurring-appointment-body-content .bpa-hh-item-info-col{
+    padding-left: 4px;
+    padding-bottom: 4px;
+}
+.bpa-dialog--add-recurring-edit .bpa-back-loader-container{
+    background-color: #ffffff;
+}
+/* .bpa-form-body-row-recurring:last-child .el-row .el-col:last-child{margin-bottom: 24px;} */
+#recurring_appointment_data{
+    background-color: #14111147;
+}
+.rec-list-appointment-title-container { display: flex;justify-content: flex-end;}
+.rec-list-appointment-title-head-id { margin-right: 15px;}
+.bpa-recurring-appointment-loader-edit-cls{
+    min-height: 184px;
+}
+/* Media Query */
+@media (max-width: 1023px) {
+    .bpa--is-page-non-scrollable-mob .bpa-hw-right-btn-group .bpa-btn:not(.bpa-btn--primary):not(.bpa-btn--icon-without-box){font-size: 13px;}
+    .bpa--is-page-non-scrollable-mob.bpa-dialog--fullscreen .bpa-dialog--add-recurring-edit .bpa-dialog-heading {  padding: 24px 24px 16px 24px; margin-bottom: 0;}
+    .bpa--is-page-non-scrollable-mob.bpa-dialog--fullscreen .bpa-dialog--add-recurring-edit .bpa-hw-right-btn-group .bpa-front-btn--borderless { padding: 4px 16px;}
+    .bpa-dailog__small.bpa-dialog--add-recurring-edit .bpa-dialog-footer { padding-left: 24px;}
+    .bpa-recurring-appointment-body .bpa-card__item { top: 35px;}
+    .bpa-upcoming-appointments-label{ margin-top: 20px; }
+}
+@media (max-width: 991px) {
+    .bpa-upcomming-appointments{
+        min-height: 140px; 
+    }
+    .bpa-recurring-appointment-body .bpa-card__item {
+        top: 30px;
+    }    
+}
+@media (max-width: 767px){
+    .bpa-recurring-appointment-body .bpa-card__item { top: unset;}
+    .bpa-upcomming-appointments{
+        
+        min-height: unset;
+        margin-bottom: 15px;
+        
+    }    
+}
+@media (max-width: 600px) and (min-width: 320px) {
+    .bpa-dialog--add-recurring-edit .bpa-dialog-footer{
+        margin-top: 25px;
+    }
+    
+}

@@ -1,0 +1,879 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Travice - Car Detailing Service & Car Repair Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Appointment",
+            "screenshot": "screenshots\/appointment.jpg",
+            "source": "templates\/appointment.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/appointment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/error-404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header - ElementsKit",
+            "screenshot": "screenshots\/header-elementskit.jpg",
+            "source": "templates\/header-elementskit.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/header-elementskit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer - ElementsKit",
+            "screenshot": "screenshots\/footer-elementskit.jpg",
+            "source": "templates\/footer-elementskit.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/footer-elementskit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Request Service - RomethemeForm",
+            "screenshot": "screenshots\/request-service-romethemeform.jpg",
+            "source": "templates\/request-service-romethemeform.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/request-service-romethemeform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form - RomethemeForm",
+            "screenshot": "screenshots\/contact-form-romethemeform.jpg",
+            "source": "templates\/contact-form-romethemeform.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/contact-form-romethemeform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Appointment Form - RomethemeForm",
+            "screenshot": "screenshots\/appointment-form-romethemeform.jpg",
+            "source": "templates\/appointment-form-romethemeform.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/appointment-form-romethemeform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscribe Form - RomethemeForm",
+            "screenshot": "screenshots\/subscribe-form-romethemeform.jpg",
+            "source": "templates\/subscribe-form-romethemeform.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/subscribe-form-romethemeform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.20.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "RomethemeForm",
+            "version": "1.1.2",
+            "file": "romethemeform\/rometheme-form.php",
+            "author": "Rometheme"
+        }
+    ],
+    "images": [
+        {
+            "filename": "auto-repair-professional-checking-oil-level-with-d-2021-09-07-21-01-16-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/auto-repair-professional-checking-oil-level-with-d-2021-09-07-21-01-16-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 180792,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "car-cleaning-and-detailing-concept-dry-wash-2022-11-09-03-10-49-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/car-cleaning-and-detailing-concept-dry-wash-2022-11-09-03-10-49-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 130031,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "mechanic-in-overalls-repairing-car-in-auto-repair-2022-12-16-18-39-34-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/mechanic-in-overalls-repairing-car-in-auto-repair-2022-12-16-18-39-34-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 198455,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "Cartrack1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/Cartrack1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 140341,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "serviceman-sitting-on-tires-white-background-2021-08-26-16-25-48-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/serviceman-sitting-on-tires-white-background-2021-08-26-16-25-48-utc-800x1238.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 255119,
+            "dimensions": [
+                827,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "young-professional-concentrated-bearded-male-worke-2022-11-09-03-09-37-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/young-professional-concentrated-bearded-male-worke-2022-11-09-03-09-37-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 279439,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "man-polish-salon-of-car-in-a-garage-2021-08-28-18-47-37-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/man-polish-salon-of-car-in-a-garage-2021-08-28-18-47-37-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 227111,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "car-detailing-series-polishing-concept-professio-2021-09-04-15-17-22-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/car-detailing-series-polishing-concept-professio-2021-09-04-15-17-22-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 191946,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "auto-mechanic-working-in-garage-repair-service-2021-08-29-18-04-02-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/auto-mechanic-working-in-garage-repair-service-2021-08-29-18-04-02-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 254437,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "professional-mechanics-repairing-car-without-wheel-2022-12-16-21-13-54-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/professional-mechanics-repairing-car-without-wheel-2022-12-16-21-13-54-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 294056,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "master-finish-washing-car-and-wiping-the-side-by-m-2021-09-01-06-27-41-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/master-finish-washing-car-and-wiping-the-side-by-m-2021-09-01-06-27-41-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 213813,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "Cartrack4.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/Cartrack4-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 93203,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "worker-provides-professional-car-interior-cleaning-2021-09-01-12-15-28-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/worker-provides-professional-car-interior-cleaning-2021-09-01-12-15-28-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 258330,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "close-up-portrait-of-car-wash-service-worker-in-ov-2022-11-09-03-09-42-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/close-up-portrait-of-car-wash-service-worker-in-ov-2022-11-09-03-09-42-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 251700,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "professional-car-engine-cleaning-2021-09-01-12-15-01-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/professional-car-engine-cleaning-2021-09-01-12-15-01-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 269336,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "Team8.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/Team8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 130097,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "Team6.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/Team6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 137989,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "Team14.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/Team14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 200231,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "wealthy-middle-eastern-businessman-buying-new-car-2022-12-16-09-28-48-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/wealthy-middle-eastern-businessman-buying-new-car-2022-12-16-09-28-48-utc-800x554.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 249958,
+            "dimensions": [
+                1188,
+                822
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "Cartrack3.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/Cartrack3-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 166120,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Cartrack2.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/Cartrack2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 122912,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mechanic-posing-at-modern-factory-2021-09-24-03-52-25-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/mechanic-posing-at-modern-factory-2021-09-24-03-52-25-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 117632,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/T5Y8A63XLP"
+        },
+        {
+            "filename": "Signature.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/Signature.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4984,
+            "dimensions": [
+                350,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mainlogo.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/mainlogo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-elementskit.json",
+                    "name": "Header - ElementsKit"
+                },
+                {
+                    "source": "templates\/footer-elementskit.json",
+                    "name": "Footer - ElementsKit"
+                }
+            ],
+            "filesize": 4727,
+            "dimensions": [
+                350,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

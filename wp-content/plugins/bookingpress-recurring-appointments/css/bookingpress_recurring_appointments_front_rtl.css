@@ -1,0 +1,8 @@
+.bpa-dailog__small .bpa-dialog-heading{padding: 24px 24px 16px 0;}
+.bpa-dailog__small .bpa-dialog-footer {padding: 16px 0px 16px 24px;}
+.bpa-front__ar-icons .bpa-my-booking__recurring-icon{ margin-right: 8px;}
+.bpa-reacurring-date-time-mobile-step .bpa-recurring-head-col-other-filter .bpa-recurring-head-col:nth-child(1){padding-left: 6px !important;}
+body.rtl .bpa-dailog__small.bpa-dialog--add-recurring-edit::after, body.rtl .bpa-dailog__small.bpa-dialog--add-recurring-edit::before{ right: unset; left: 43px;}
+.bpa-fm--service__advance-options-recurring-popper .el-select-group__title{
+    padding-right: 25px !important;
+}

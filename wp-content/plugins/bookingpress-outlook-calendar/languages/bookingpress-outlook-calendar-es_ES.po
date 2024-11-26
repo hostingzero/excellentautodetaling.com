@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Outlook Calendar Integration Addon v2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-06-26 08:11:54+0000\n"
+"Last-Translator: admin <testrepute123@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: bookingpress-outlook-calendar.php:0
+#@ bookingpress-outlook-calendar
+msgid "BookingPress - Outlook Calendar Integration Addon"
+msgstr "BookingPress - Complemento de integración de calendario de Outlook"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: bookingpress-outlook-calendar.php:0
+#@ bookingpress-outlook-calendar
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+#. translators: plugin header field 'Description'
+#: bookingpress-outlook-calendar.php:0
+#@ bookingpress-outlook-calendar
+msgid "Extension for BookingPress plugin to add appointment in Outlook Calendar."
+msgstr "Extensión para el complemento BookingPress para agregar citas en el calendario de Outlook."
+
+#. translators: plugin header field 'Author'
+#: bookingpress-outlook-calendar.php:0
+#@ bookingpress-outlook-calendar
+msgid "Repute InfoSystems"
+msgstr "Repute InfoSystems"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:684
+#@ bookingpress-outlook-calendar
+msgid "BookingPress - Outlook Calendar Integration plugin requires BookingPress Premium Plugin installed and active."
+msgstr "BookingPress: el complemento de integración de calendario de Outlook requiere el complemento Premium de BookingPress instalado y activo."
+
+#: core/classes/class.bookingpress-outlook-calendar.php:279
+#: core/classes/class.bookingpress-outlook-calendar.php:722
+#: core/classes/class.bookingpress-outlook-calendar.php:3787
+#@ bookingpress-outlook-calendar
+msgid "Outlook Calendar"
+msgstr "Calendario de Outlook"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:727
+#@ bookingpress-outlook-calendar
+msgid "Save"
+msgstr "Ahorrar"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:745
+#@ bookingpress-outlook-calendar
+msgid "Outlook Calendar Integration requires Staff Member Module to be activated."
+msgstr "La integración del calendario de Outlook requiere que el módulo para miembros del personal esté activado."
+
+#: core/classes/class.bookingpress-outlook-calendar.php:752
+#@ bookingpress-outlook-calendar
+msgid "Application (Client) Id"
+msgstr "Identificación de la aplicación (cliente)"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:756
+#@ bookingpress-outlook-calendar
+msgid "Enter client id"
+msgstr "Ingrese la identificación del cliente"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:762
+#@ bookingpress-outlook-calendar
+msgid "Client Secret"
+msgstr "Secreto del cliente"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:766
+#@ bookingpress-outlook-calendar
+msgid "Enter client secret"
+msgstr "Ingrese el secreto del cliente"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:782
+#@ bookingpress-outlook-calendar
+msgid "Event Settings"
+msgstr "Configuración de eventos"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:786
+#@ bookingpress-outlook-calendar
+msgid "Event Title"
+msgstr "Título del evento"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:790
+#@ bookingpress-outlook-calendar
+msgid "Enter event title"
+msgstr "Introduce el título del evento"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:796
+#@ bookingpress-outlook-calendar
+msgid "Event Description"
+msgstr "descripción del evento"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:800
+#@ bookingpress-outlook-calendar
+msgid "Enter event description"
+msgstr "Introduce la descripción del evento"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:819
+#@ bookingpress-outlook-calendar
+msgid "Insert Placeholders"
+msgstr "Insertar marcadores de posición"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:826
+#@ bookingpress-outlook-calendar
+msgid "Customer"
+msgstr "Cliente"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:834
+#@ bookingpress-outlook-calendar
+msgid "Service"
+msgstr "Servicio"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:844
+#@ bookingpress-outlook-calendar
+msgid "Company"
+msgstr "Compañía"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:852
+#@ bookingpress-outlook-calendar
+msgid "Staff Member"
+msgstr "Miembro del equipo"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:861
+#@ bookingpress-outlook-calendar
+msgid "Appointment"
+msgstr "Cita"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:873
+#@ bookingpress-outlook-calendar
+msgid "Staff Member related Settings"
+msgstr "Configuraciones relacionadas con miembros del personal"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:877
+#@ bookingpress-outlook-calendar
+msgid "Maximum Number Of Events Returned"
+msgstr "Número máximo de eventos devueltos"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:881
+#@ bookingpress-outlook-calendar
+msgid "Enter maximum number of event returned"
+msgstr "Ingrese el número máximo de eventos devueltos"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:893
+#@ bookingpress-outlook-calendar
+msgid "Placeholder copied"
+msgstr "Marcador de posición copiado"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:263
+#: core/classes/class.bookingpress-outlook-calendar.php:581
+#: core/classes/class.bookingpress-outlook-calendar.php:909
+#: core/classes/class.bookingpress-outlook-calendar.php:911
+#@ bookingpress-outlook-calendar
+msgid "Success"
+msgstr "Éxito"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:924
+#@ bookingpress-outlook-calendar
+msgid "Outlook Calendar Integration"
+msgstr "Integración del calendario de Outlook"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:932
+#@ bookingpress-outlook-calendar
+msgid "Select Outlook Calendar"
+msgstr "Seleccione Calendario de Outlook"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:964
+#@ bookingpress-outlook-calendar
+msgid "Sign In With Outlook"
+msgstr "Iniciar sesión con Outlook"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:175
+#: core/classes/class.bookingpress-outlook-calendar.php:185
+#: core/classes/class.bookingpress-outlook-calendar.php:491
+#: core/classes/class.bookingpress-outlook-calendar.php:1440
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+#@ bookingpress-outlook-calendar
+msgid "Error"
+msgstr "Error"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:1441
+#@ bookingpress-outlook-calendar
+msgid "Please select the outlook calendar"
+msgstr "Seleccione el calendario de Outlook"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:3773
+#@ bookingpress-outlook-calendar
+msgid "Outlook Calendar Debug Logs"
+msgstr "Registros de depuración del calendario de Outlook"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:3845
+#@ bookingpress-outlook-calendar
+msgid "Please Enter the Client ID"
+msgstr "Por favor ingrese la identificación del cliente"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:3852
+#@ bookingpress-outlook-calendar
+msgid "Please Enter the Client Secret"
+msgstr "Por favor ingrese el secreto del cliente"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:582
+#@ bookingpress-outlook-calendar
+msgid "Sign out successfully."
+msgstr "Cerrar sesión con éxito."
+
+#: core/classes/class.bookingpress-outlook-calendar.php:963
+#@ bookingpress-outlook-calendar
+msgid "Sign Out from Outlook"
+msgstr "Salir de Outlook"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:3830
+#@ bookingpress-outlook-calendar
+msgid "Basic fields"
+msgstr "Campos básicos"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:3835
+#@ bookingpress-outlook-calendar
+msgid "Advanced fields"
+msgstr "Campos avanzados"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:689
+#@ bookingpress-outlook-calendar
+msgid "BookingPress - Outlook Calendar Integration plugin requires BookingPress Appointment Booking plugin installed with version 1.0.41 or higher"
+msgstr "BookingPress: el complemento de integración de calendario de Outlook requiere el complemento de reserva de citas de BookingPress instalado con la versión 1.0.41 o superior"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:772
+#@ bookingpress-outlook-calendar
+msgid "Redirect URL"
+msgstr "Redireccionar URL"
+
+#: bookingpress-outlook-calendar.php:31
+#@ bookingpress-outlook-calendar
+msgid "BookingPress lite version 1.0.42 required to use BookingPress Outlook Calendar Add-on"
+msgstr "Se requiere BookingPress lite versión 1.0.42 para usar BookingPress Outlook Calendar Add-on"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:182
+#: core/classes/class.bookingpress-outlook-calendar.php:488
+#@ bookingpress-outlook-calendar
+msgid "Sorry. Something went wrong while processing the request"
+msgstr "Lo siento. Algo salió mal al procesar la solicitud"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:697
+#@ bookingpress-outlook-calendar
+msgid "it's highly recommended to update the BookingPress Premium Plugin to version 1.2 or higher in order to use the BookingPress Outlook Calendar plugin"
+msgstr "Se recomienda encarecidamente actualizar el complemento BookingPress Premium a la versión 1.2 o superior para poder utilizar el complemento BookingPress Outlook Calendar."
+
+#: core/classes/class.bookingpress-outlook-calendar.php:894
+#@ bookingpress-outlook-calendar
+msgid "URL copied successfully"
+msgstr "URL copiada con éxito"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:806
+#@ bookingpress-outlook-calendar
+msgid "Event Location"
+msgstr "Lugar del evento"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:810
+#: core/classes/class.bookingpress-outlook-calendar.php:3811
+#@ bookingpress-outlook-calendar
+msgid "Select Field"
+msgstr "Seleccionar campo"
+
+#. translators: the plugin name.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:257
+#, php-format
+#@ bookingpress-outlook-calendar
+msgid "There is a new version of %1$s available."
+msgstr "Hay una nueva versión de %1$s disponible."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:263
+#@ bookingpress-outlook-calendar
+msgid "Contact your network administrator to install the update."
+msgstr "Póngase en contacto con su administrador de red para instalar la actualización."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:268
+#, php-format
+#@ bookingpress-outlook-calendar
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sVer versión %2$s detalles%3$s."
+
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
+#: core/classes/class.bookingpress_pro_plugin_updater.php:277
+#, php-format
+#@ bookingpress-outlook-calendar
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sVer versión %2$s detalles%3$s o %4$actualizar ahora%5$s."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:288
+#@ bookingpress-outlook-calendar
+msgid "Update now."
+msgstr "Actualizar ahora."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+#@ bookingpress-outlook-calendar
+msgid "You do not have permission to install plugin updates"
+msgstr "No tiene permiso para instalar actualizaciones de complementos"
+
+#: bookingpress-outlook-calendar.php:32
+#, php-format
+#@ bookingpress-outlook-calendar
+msgid "Please %1$s Click Here %2$s to Continue"
+msgstr "Por favor %1$s Haga clic aquí %2$s para continuar"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:176
+#@ bookingpress-outlook-calendar
+msgid "Calendar List Not Found"
+msgstr "Lista de calendario no encontrada"
+
+#: core/classes/class.bookingpress-outlook-calendar.php:264
+#@ bookingpress-outlook-calendar
+msgid "List has been refreshed successfully."
+msgstr "La lista se ha actualizado correctamente."
+
+#: core/classes/class.bookingpress-outlook-calendar.php:939
+#@ bookingpress-outlook-calendar
+msgid "Refresh Calendar List"
+msgstr "Actualizar lista de calendario"
+
+#: bookingpress-outlook-calendar.php:61
+#: bookingpress-outlook-calendar.php:93
+#@ bookingpress-outlook-calendar
+msgid "An error occurred, please try again."
+msgstr "Ha ocurrido un error. Por favor intente de nuevo."
+
+#: bookingpress-outlook-calendar.php:69
+#, php-format
+#@ bookingpress-outlook-calendar
+msgid "Your license key expired on %s."
+msgstr "Su clave de licencia expiró el %s."
+
+#: bookingpress-outlook-calendar.php:74
+#@ bookingpress-outlook-calendar
+msgid "Your license key has been disabled."
+msgstr "Su clave de licencia ha sido deshabilitada."
+
+#: bookingpress-outlook-calendar.php:77
+#@ bookingpress-outlook-calendar
+msgid "Invalid license."
+msgstr "Licencia invalida."
+
+#: bookingpress-outlook-calendar.php:81
+#@ bookingpress-outlook-calendar
+msgid "Your license is not active for this URL."
+msgstr "Su licencia no está activa para esta URL."
+
+#: bookingpress-outlook-calendar.php:84
+#: bookingpress-outlook-calendar.php:87
+#@ bookingpress-outlook-calendar
+msgid "This appears to be an invalid license key for your selected package."
+msgstr "Parece ser una clave de licencia no válida para el paquete seleccionado."
+
+#: bookingpress-outlook-calendar.php:90
+#@ bookingpress-outlook-calendar
+msgid "Your license key has reached its activation limit."
+msgstr "Su clave de licencia ha alcanzado su límite de activación."
+
+#: bookingpress-outlook-calendar.php:106
+#: core/classes/class.bookingpress-outlook-calendar.php:599
+#: core/classes/class.bookingpress-outlook-calendar.php:612
+#: core/classes/class.bookingpress-outlook-calendar.php:643
+#: core/classes/class.bookingpress-outlook-calendar.php:654
+#@ bookingpress-outlook-calendar
+msgid "Please activate license of BookingPress premium plugin to use BookingPress Outlook Calendar Add-on"
+msgstr "Active la licencia del complemento premium de BookingPress para utilizar el complemento Calendario de Outlook de BookingPress"
+
+#: bookingpress-outlook-calendar.php:107
+#: core/classes/class.bookingpress-outlook-calendar.php:600
+#: core/classes/class.bookingpress-outlook-calendar.php:613
+#: core/classes/class.bookingpress-outlook-calendar.php:644
+#: core/classes/class.bookingpress-outlook-calendar.php:655
+#, php-format
+#@ bookingpress-outlook-calendar
+msgid "Please %s Click Here %s to Continue"
+msgstr "Por favor %s Haga clic aquí %s para continuar"
+
+#. translators: plugin header field 'Version'
+#: bookingpress-outlook-calendar.php:0
+#@ bookingpress-outlook-calendar
+msgid "2.2"
+msgstr "2.2"
+

@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Invoice Addon v2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-04-24 14:29:03+0000\n"
+"Last-Translator: admin <testrepute123@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: bookingpress-invoice.php:0
+#@ bookingpress-invoice
+msgid "BookingPress - Invoice Addon"
+msgstr "BookingPress - Fatura Eklentisi"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: bookingpress-invoice.php:0
+#@ bookingpress-invoice
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+#. translators: plugin header field 'Description'
+#: bookingpress-invoice.php:0
+#@ bookingpress-invoice
+msgid "Invoice Integration."
+msgstr "Fatura Entegrasyonu."
+
+#. translators: plugin header field 'Author'
+#: bookingpress-invoice.php:0
+#@ bookingpress-invoice
+msgid "Repute InfoSystems"
+msgstr "Repute InfoSystems"
+
+#: bookingpress-invoice.php:42
+#@ bookingpress-invoice
+msgid "BookingPress lite version 1.0.42 required to use BookingPress Invoice Add-on"
+msgstr "BookingPress Fatura Eklentisini kullanmak için BookingPress lite sürüm 1.0.42 gereklidir"
+
+#: bookingpress-invoice.php:43
+#: core/classes/class.bookingpress-invoice.php:170
+#: core/classes/class.bookingpress-invoice.php:183
+#: core/classes/class.bookingpress-invoice.php:214
+#: core/classes/class.bookingpress-invoice.php:225
+#, php-format
+#@ bookingpress-invoice
+msgid "Please %s Click Here %s to Continue"
+msgstr "Lütfen %s Buraya tıklayın %s devam etmek"
+
+#: core/classes/class.bookingpress-invoice.php:95
+#: core/classes/class.bookingpress-invoice.php:120
+#@ bookingpress-invoice
+msgid "Download invoice button label"
+msgstr "Fatura düğmesi etiketini indirin"
+
+#: core/classes/class.bookingpress-invoice.php:99
+#: core/classes/class.bookingpress-invoice.php:112
+#: core/classes/class.bookingpress-invoice.php:287
+#: core/classes/class.bookingpress-invoice.php:322
+#: core/classes/class.bookingpress-invoice.php:362
+#: core/classes/class.bookingpress-invoice.php:372
+#: core/classes/class.bookingpress-invoice.php:1363
+#: core/classes/class.bookingpress-invoice.php:1452
+#: core/classes/class.bookingpress-invoice.php:1902
+#: core/views/settings/invoice_setting_tab.php:4
+#: core/views/settings/invoice_setting_tab.php:9
+#@ bookingpress-invoice
+msgid "Invoice"
+msgstr "Fatura"
+
+#: core/classes/class.bookingpress-invoice.php:560
+#@ bookingpress-invoice
+msgid "mPDF Library for BookingPress invoice required Minimum PHP version 7.1 or greater."
+msgstr "BookingPress faturası için mPDF Kütüphanesi gereklidir Minimum PHP sürümü 7.1 veya üstü."
+
+#: core/classes/class.bookingpress-invoice.php:564
+#@ bookingpress-invoice
+msgid "Bookingpress - Invoice plugin requires Bookingpress Premium Plugin installed and active."
+msgstr "Bookingpress - Fatura eklentisi, Bookingpress Premium Eklentisinin kurulu ve aktif olmasını gerektirir."
+
+#: core/classes/class.bookingpress-invoice.php:572
+#@ bookingpress-invoice
+msgid "it's highly recommended to update the BookingPress Premium Plugin to version 1.2 or higher in order to use the BookingPress Invoice plugin"
+msgstr "BookingPress Fatura eklentisini kullanmak için BookingPress Premium Eklentisini 1.2 veya daha yüksek bir sürüme güncellemeniz önemle tavsiye edilir"
+
+#: core/classes/class.bookingpress-invoice.php:575
+#@ bookingpress-invoice
+msgid "it's highly recommended to update the BookingPress Premium Plugin to version 1.6 or higher in order to use the BookingPress Invoice plugin"
+msgstr "BookingPress Fatura eklentisini kullanmak için BookingPress Premium Eklentisini 1.6 veya daha yüksek bir sürüme güncellemeniz önemle tavsiye edilir"
+
+#: core/classes/class.bookingpress-invoice.php:709
+#: core/classes/class.bookingpress-invoice.php:744
+#@ bookingpress-invoice
+msgid "Sorry. Something went wrong while processing the request"
+msgstr "Üzgünüm. İstek işlenirken bir şeyler ters gitti"
+
+#: core/classes/class.bookingpress-invoice.php:712
+#: core/classes/class.bookingpress-invoice.php:747
+#: core/classes/class.bookingpress_pro_plugin_updater.php:519
+#@ bookingpress-invoice
+msgid "Error"
+msgstr "Hata"
+
+#: core/classes/class.bookingpress-invoice.php:723
+#: core/classes/class.bookingpress-invoice.php:774
+#@ bookingpress-invoice
+msgid "Success"
+msgstr "Başarı"
+
+#: core/classes/class.bookingpress-invoice.php:724
+#@ bookingpress-invoice
+msgid "Invoice Counter Update successfully."
+msgstr "Fatura Sayacı Güncellemesi başarıyla tamamlandı."
+
+#: core/classes/class.bookingpress-invoice.php:775
+#@ bookingpress-invoice
+msgid "Settings has been updated successfully."
+msgstr "Ayarlar başarıyla güncellendi."
+
+#: core/classes/class.bookingpress-invoice.php:861
+#@ bookingpress-invoice
+msgid "invoice"
+msgstr "fatura"
+
+#: core/classes/class.bookingpress-invoice.php:871
+#@ bookingpress-invoice
+msgid "company"
+msgstr "şirket"
+
+#: core/classes/class.bookingpress-invoice.php:1098
+#@ bookingpress-invoice
+msgid "Tag copied successfully"
+msgstr "Etiket başarıyla kopyalandı"
+
+#: core/classes/class.bookingpress-invoice.php:1396
+#@ bookingpress-invoice
+msgid "Font not found"
+msgstr "Yazı tipi bulunamadı"
+
+#: core/classes/class.bookingpress-invoice.php:1441
+#@ bookingpress-invoice
+msgid "send a PDF"
+msgstr "PDF gönder"
+
+#. translators: the plugin name.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:256
+#, php-format
+#@ bookingpress-invoice
+msgid "There is a new version of %1$s available."
+msgstr "%1$s'ın yeni bir sürümü mevcut."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:262
+#@ bookingpress-invoice
+msgid "Contact your network administrator to install the update."
+msgstr "Güncelleştirmeyi yüklemek için ağ yöneticinize başvurun."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:267
+#, php-format
+#@ bookingpress-invoice
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%s Sürümü görüntüle %s detaylar %s."
+
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
+#: core/classes/class.bookingpress_pro_plugin_updater.php:276
+#, php-format
+#@ bookingpress-invoice
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%s Sürümü görüntüle %s detaylar %s veya %s Şimdi güncelle %s."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:287
+#@ bookingpress-invoice
+msgid "Update now."
+msgstr "Şimdi güncelle."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:519
+#@ bookingpress-invoice
+msgid "You do not have permission to install plugin updates"
+msgstr "Eklenti güncellemelerini yükleme izniniz yok"
+
+#: core/views/settings/invoice_setting_tab.php:14
+#@ bookingpress-invoice
+msgid "Save"
+msgstr "Kaydetmek"
+
+#: core/views/settings/invoice_setting_tab.php:27
+#@ bookingpress-invoice
+msgid "Invoice Settings"
+msgstr "Fatura Ayarları"
+
+#: core/views/settings/invoice_setting_tab.php:31
+#@ bookingpress-invoice
+msgid "Approve"
+msgstr "Onaylamak"
+
+#: core/views/settings/invoice_setting_tab.php:32
+#: core/views/settings/invoice_setting_tab.php:140
+#: core/views/settings/invoice_setting_tab.php:287
+#@ bookingpress-invoice
+msgid "Cancel"
+msgstr "İptal etmek"
+
+#: core/views/settings/invoice_setting_tab.php:34
+#@ bookingpress-invoice
+msgid "Are you sure you want to reset invoice counter?"
+msgstr "Fatura sayacını sıfırlamak istediğinizden emin misiniz?"
+
+#: core/views/settings/invoice_setting_tab.php:39
+#@ bookingpress-invoice
+msgid "Reset Counter"
+msgstr "Sayacı Sıfırla"
+
+#: core/views/settings/invoice_setting_tab.php:50
+#@ bookingpress-invoice
+msgid "Invoice prefix/suffix"
+msgstr "Fatura öneki/son eki"
+
+#: core/views/settings/invoice_setting_tab.php:63
+#@ bookingpress-invoice
+msgid "Invoice Suffix"
+msgstr "Fatura Son Eki"
+
+#: core/views/settings/invoice_setting_tab.php:66
+#@ bookingpress-invoice
+msgid "Enter Invoice Suffix"
+msgstr "Fatura Son Eki Girin"
+
+#: core/views/settings/invoice_setting_tab.php:75
+#@ bookingpress-invoice
+msgid "Invoice Prefix"
+msgstr "Fatura Öneki"
+
+#: core/views/settings/invoice_setting_tab.php:77
+#@ bookingpress-invoice
+msgid "Enter Invoice Prefix"
+msgstr "Fatura Önekini Girin"
+
+#: core/views/settings/invoice_setting_tab.php:85
+#@ bookingpress-invoice
+msgid "Minimum Invoice Length"
+msgstr "Minimum Fatura Uzunluğu"
+
+#: core/views/settings/invoice_setting_tab.php:116
+#@ bookingpress-invoice
+msgid "Invoice due days"
+msgstr "Fatura son ödeme günleri"
+
+#: core/views/settings/invoice_setting_tab.php:126
+#@ bookingpress-invoice
+msgid "Font"
+msgstr "Yazı tipi"
+
+#: core/views/settings/invoice_setting_tab.php:141
+#@ bookingpress-invoice
+msgid "Update"
+msgstr "Güncelleme"
+
+#: core/views/settings/invoice_setting_tab.php:146
+#@ bookingpress-invoice
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: core/views/settings/invoice_setting_tab.php:152
+#: core/views/settings/invoice_setting_tab.php:282
+#@ bookingpress-invoice
+msgid "Invoice Preview"
+msgstr "Fatura Önizlemesi"
+
+#: core/views/settings/invoice_setting_tab.php:255
+#@ bookingpress-invoice
+msgid "Tags"
+msgstr "Etiketler"
+
+#. translators: plugin header field 'Version'
+#: bookingpress-invoice.php:0
+#@ bookingpress-invoice
+msgid "2.2"
+msgstr "2.2"
+
+#: bookingpress-invoice.php:74
+#: bookingpress-invoice.php:106
+#@ bookingpress-invoice
+msgid "An error occurred, please try again."
+msgstr "Bir hata oluştu. Lütfen tekrar deneyin."
+
+#: bookingpress-invoice.php:82
+#, php-format
+#@ bookingpress-invoice
+msgid "Your license key expired on %s."
+msgstr "Lisans anahtarınızın süresi %s tarihinde doldu."
+
+#: bookingpress-invoice.php:87
+#@ bookingpress-invoice
+msgid "Your license key has been disabled."
+msgstr "Lisans anahtarınız devre dışı bırakıldı."
+
+#: bookingpress-invoice.php:90
+#@ bookingpress-invoice
+msgid "Invalid license."
+msgstr "Geçersiz lisans."
+
+#: bookingpress-invoice.php:94
+#@ bookingpress-invoice
+msgid "Your license is not active for this URL."
+msgstr "Lisansınız bu URL için etkin değil."
+
+#: bookingpress-invoice.php:97
+#: bookingpress-invoice.php:100
+#@ bookingpress-invoice
+msgid "This appears to be an invalid license key for your selected package."
+msgstr "Bu, seçtiğiniz paket için geçersiz bir lisans anahtarı gibi görünüyor."
+
+#: bookingpress-invoice.php:103
+#@ bookingpress-invoice
+msgid "Your license key has reached its activation limit."
+msgstr "Lisans anahtarınız etkinleştirme sınırına ulaştı."
+
+#: core/classes/class.bookingpress-invoice.php:169
+#: core/classes/class.bookingpress-invoice.php:182
+#: core/classes/class.bookingpress-invoice.php:213
+#: core/classes/class.bookingpress-invoice.php:224
+#@ bookingpress-invoice
+msgid "Please activate license of BookingPress premium plugin to use BookingPress Invoice Add-on"
+msgstr "BookingPress Fatura Eklentisini kullanmak için lütfen BookingPress premium eklentisinin lisansını etkinleştirin"
+

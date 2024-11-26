@@ -1,0 +1,214 @@
+a.bpa-btn--icon-without-box{
+	display: inline-block;
+	text-align: center;
+}
+.bpa-table-actions a.bpa-btn--icon-without-box span{
+	font-size: 18px;
+	line-height: 32px;
+	vertical-align: sub;
+}
+.bpa-invoice-settings-tabs--pb__card .bpa-mlc-head-wrap-settings{
+	flex-wrap: wrap;
+}
+.bpa-invoice-settings-tabs--pb__card .bpa-mlc-head-wrap-settings .bpa-hw-right-btn-group{
+	flex-wrap: wrap;	
+	justify-content: flex-start;
+}
+.bpa-invoice-settings-tabs--pb__card .bpa-mlc-head-wrap-settings .bpa-hw-right-btn-group .bpa-btn{
+	margin: 6px 0;
+}
+.bpa-invoice__content-body .bpa-gs__cb--item .bpa-icb--min-length-row{
+	align-items: flex-start;
+}
+.bpa-invoice__content-body .bpa-gs__cb--item .bpa-icb--min-length-row .bpa-gs__cb-item-right .bpa-btn{
+	margin-top: 12px;
+}
+.bpa-icb--template-builder .bpa-gs__cb--item-body{
+	border: 1px solid var(--bpa-gt-gray-400);
+	border-radius: var(--bpa-radius-6px);
+	padding: 32px 0;
+}
+.bpa-icb--template-builder .bpa-gs__cb--item-body .bpa-tb__item-row{
+	display: flex;
+	justify-content: space-between;
+}
+.bpa-icb--template-builder .bpa-gs__cb--item-body .bpa-tb__item-row.--bpa-is-head-area{
+	border-bottom: 1px solid var(--bpa-gt-gray-300);
+	padding-bottom: 16px;
+	margin-bottom: 24px;
+}
+.bpa-icb--template-builder .bpa-gs__cb--item-body .bpa-tb__item-row.--bpa-is-single-col{
+	justify-content: center;
+}
+.bpa-icb--template-builder .bpa-gs__cb--item-body .bpa-tb__item-row.--bpa-is-right-col{
+	justify-content: flex-end;
+}
+.bpa-icb--template-builder .bpa-gs__cb--item-body .bpa-tb__item-row .bpa-tb__item h3{
+	background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='4' ry='4' stroke='%23B8C1D3FF' stroke-width='2' stroke-dasharray='4%2c 12' stroke-dashoffset='0' stroke-linecap='round'/%3e%3c/svg%3e");
+	padding: 6px 24px;
+	font-size: 15px;
+	line-height: 24px;
+	cursor: pointer;
+	font-weight: 500;
+	color: var(--bpa-dt-black-300);
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: var(--bpa-radius-4px);
+}
+.bpa-tb__foot-table{
+	border: 1px solid var(--bpa-gt-gray-300);
+	border-radius: var(--bpa-radius-4px);
+	width: 100%;
+}
+.bpa-tb__foot-table .bpa-ft--row{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.bpa-tb__foot-table .bpa-ft--row.__bpa-is-subtotal-row .bpa-ft__item:first-child{
+	flex: 2;
+	text-align: right;
+}
+.bpa-tb__foot-table .bpa-ft--row .bpa-ft__item{
+	border-right: 1px solid var(--bpa-gt-gray-300);
+	border-bottom: 1px solid var(--bpa-gt-gray-300);
+	padding: 8px 16px;
+	flex: 1;
+}
+.bpa-tb__foot-table .bpa-ft--row .bpa-ft__item:last-child{
+	border-right: none;
+}
+.bpa-tb__foot-table .bpa-ft--row .bpa-ft__item p{
+	font-size: 14px;
+	color: var(--bpa-dt-black-200);
+}
+.bpa-tb__foot-table .bpa-ft--row:last-child .bpa-ft__item{
+	border-bottom: none;
+}
+.bpa-tb__foot-table .bpa-ft--row .bpa-ft__item .bpa-btn i.material-icons-round{
+	font-size: 16px;
+	color: var(--bpa-dt-black-200);
+}
+.bpa-invoice-settings-popover{
+	margin: 0px 15px 0px 15px;
+}
+.bpa-is__wrapper .bpa-is__title{
+	padding: 16px 24px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+	border-bottom: 1px solid var(--bpa-gt-gray-400);
+}
+.bpa-is__wrapper .bpa-is__title .bpa-ish__right{
+	justify-content: flex-end;
+	display: flex;
+}
+.bpa-is__wrapper .bpa-is__title .bpa-page-heading{
+	font-size: 16px;
+    line-height: 20px;
+    color: var(--bpa-dt-black-300);
+}
+.bpa-is__wrapper .bpa-is__body{
+	padding: 24px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+	border-bottom: 1px solid var(--bpa-gt-gray-400);
+}
+.bpa-is__body-item-row{
+	margin-bottom: 16px;
+}
+.bpa-is__body-swtich-col-title .bpa-form-label{
+	margin-bottom: 0;
+}
+.bpa-is__body-switch{
+	display: flex;
+	justify-content: flex-end;
+}
+.bpa-is__container .bpa-is__wrapper .bpa-invoice-settings-footer{
+	padding: 16px 24px;
+}
+.bpa-el-select--invoice-popper{
+	z-index: 9999 !important;
+}
+.bpa-invoice-template-builder .trumbowyg-editor{
+	height: unset !important;
+}
+.bpa-icb--template-builder .bpa-invoice-template-tags-container{
+	max-height: 750px;
+	overflow: auto;
+	border: 1px solid var(--bpa-gt-gray-400);
+	border-radius: var(--bpa-radius-12px);
+	padding: 20px 20px 0px 20px;
+}
+.bpa-icb--template-builder .bpa-invoice-template-tags-container .bpa-gs__cb--item-heading .bpa-sec--sub-heading{
+	border: unset;
+}
+.bpa-icb--template-builder .bpa-invoice-template-tags-container .bpa-tags--item-sub-heading{
+	display: block;
+	width: 100%;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 18px;
+	color: var(--bpa-dt-black-400);
+	padding-bottom: 8px;
+	border-bottom: 1px solid var(--bpa-gt-gray-400);
+}
+.bpa-icb--template-builder .bpa-invoice-template-tags-container .bpa-gs__cb--item-tags-body .bpa-tags--item-body{
+	margin: 16px 0px 16px 0px;
+}
+.bpa-icb--template-builder .bpa-invoice-template-tags-container .bpa-gs__cb--item-tags-body .bpa-tags--item-body{
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	padding: 8px 4px 8px 12px;
+	gap: 4px;
+	background: var(--bpa-gt-gray-100);
+	border: 1px solid var(--bpa-gt-gray-200);
+	border-radius: 4px;
+	cursor: pointer;
+}
+.bpa-dialog--invoice-preview{ 
+	max-width: 850px; 
+	margin-bottom: 52px;
+}
+.bpa-manage-appointment-items .bpa-vac--head__right .bpa-btn { margin-left: 16px;}
+.body.rtl .bpa-manage-appointment-items .bpa-vac--head__right .bpa-btn { margin-left: 0; margin-right: 16px;}
+/* Hide editor buttons */
+#wp-bookingpress_invoice_template_builder-editor-container input[value="link"], 
+#wp-bookingpress_invoice_template_builder-editor-container input[value="b-quote"], 
+#wp-bookingpress_invoice_template_builder-editor-container input[value="del"], 
+#wp-bookingpress_invoice_template_builder-editor-container input[value="ins"], 
+#wp-bookingpress_invoice_template_builder-editor-container input[value="img"], 
+#wp-bookingpress_invoice_template_builder-editor-container input[value="ul"], 
+#wp-bookingpress_invoice_template_builder-editor-container input[value="ol"], 
+#wp-bookingpress_invoice_template_builder-editor-container input[value="li"], 
+#wp-bookingpress_invoice_template_builder-editor-container input[value="code"], 
+#wp-bookingpress_invoice_template_builder-editor-container input[value="more"]{
+	display: none !important;
+}
+.bpa-invoice-preview-btn{ 
+	margin-right: 16px !important; 
+}
+
+@media (min-width: 1200px) and (max-width: 1440px){
+	.bpa-dialog--invoice-preview .bpa-dialog-heading h1{
+		padding-left: 0;
+	}
+}
+
+@media (max-width: 1024px) {
+	.bpa-dialog--invoice-preview {
+		width: 90%;
+		max-width: 90%;
+	}
+
+	.bpa-dialog--invoice-preview table {
+		width: 100% !important;
+	}
+}

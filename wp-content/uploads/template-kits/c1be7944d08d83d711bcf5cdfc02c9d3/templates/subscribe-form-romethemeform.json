@@ -1,0 +1,125 @@
+{
+    "version": "0.4",
+    "title": "Subscribe Form &#8211; RomethemeForm",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-contact",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "334ec6a3",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                    "column": "5",
+                    "row": "5",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 5
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "34f6e94a",
+                    "settings": {
+                        "label_text": "Email",
+                        "name_input": "rform-email",
+                        "placeholder_input": "Your email here",
+                        "required_input": "",
+                        "warning_message": "This field is required",
+                        "label_color": "#FFFFFF",
+                        "input_padding": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "input_typography_typography": "custom",
+                        "input_typography_font_family": "Nunito Sans",
+                        "input_typography_font_size": {
+                            "unit": "rem",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "input_typography_font_size_tablet": {
+                            "unit": "rem",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "input_typography_font_size_mobile": {
+                            "unit": "rem",
+                            "size": 0.875,
+                            "sizes": []
+                        },
+                        "input_typography_font_weight": "400",
+                        "input_border_radius": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "input_background_normal_background": "classic",
+                        "input_border_normal_border": "none",
+                        "__globals__": {
+                            "label_typography_typography": "globals\/typography?id=e64b5f8",
+                            "label_color": "globals\/colors?id=primary",
+                            "input_typography_typography": "globals\/typography?id=text",
+                            "input_color_normal": "globals\/colors?id=2c498e4",
+                            "input_color_hover": "globals\/colors?id=2c498e4",
+                            "input_color_focus": "globals\/colors?id=2c498e4",
+                            "input_color_warning": "globals\/colors?id=2c498e4",
+                            "placeholder_typography_typography": "globals\/typography?id=text",
+                            "placeholder_color": "globals\/colors?id=text",
+                            "input_background_normal_color": "globals\/colors?id=primary"
+                        },
+                        "show_label": ""
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "email",
+                    "elType": "widget"
+                },
+                {
+                    "id": "7eef2841",
+                    "settings": {
+                        "button_text": "Subscribe now",
+                        "btn_fullwidth": "yes",
+                        "border_normal_border": "none",
+                        "padding_right": {
+                            "unit": "px",
+                            "size": 5,
+                            "sizes": []
+                        },
+                        "vertical_align": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rform_button_submit",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

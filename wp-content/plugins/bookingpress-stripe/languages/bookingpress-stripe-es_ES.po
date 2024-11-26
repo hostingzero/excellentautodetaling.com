@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Stripe Payment Gateway Addon v1.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-04-29 13:18:49+0000\n"
+"Last-Translator: admin <testrepute123@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: bookingpress-stripe.php:0
+#@ bookingpress-stripe
+msgid "BookingPress - Stripe Payment Gateway Addon"
+msgstr "BookingPress - Complemento de pasarela de pago de Stripe"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: bookingpress-stripe.php:0
+#@ bookingpress-stripe
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+#. translators: plugin header field 'Description'
+#: bookingpress-stripe.php:0
+#@ bookingpress-stripe
+msgid "Extension for BookingPress plugin to accept payments using Stripe Payment Gateway."
+msgstr "Extensión para el complemento BookingPress para aceptar pagos utilizando Stripe Payment Gateway."
+
+#. translators: plugin header field 'Author'
+#: bookingpress-stripe.php:0
+#@ bookingpress-stripe
+msgid "Repute InfoSystems"
+msgstr "Sistemas de información de reputación"
+
+#: core/classes/class.bookingpress-stripe-payment.php:79
+#: core/classes/class.bookingpress-stripe-payment.php:119
+#: core/classes/class.bookingpress-stripe-payment.php:130
+#: core/classes/class.bookingpress-stripe-payment.php:171
+#: core/classes/class.bookingpress-stripe-payment.php:192
+#: core/classes/class.bookingpress-stripe-payment.php:219
+#: core/classes/class.bookingpress-stripe-payment.php:321
+#: core/classes/class.bookingpress-stripe-payment.php:342
+#: core/classes/class.bookingpress-stripe-payment.php:348
+#: core/classes/class.bookingpress-stripe-payment.php:451
+#: core/classes/class.bookingpress-stripe-payment.php:492
+#: core/classes/class.bookingpress-stripe-payment.php:503
+#: core/classes/class.bookingpress-stripe-payment.php:543
+#: core/classes/class.bookingpress-stripe-payment.php:561
+#: core/classes/class.bookingpress-stripe-payment.php:586
+#: core/classes/class.bookingpress-stripe-payment.php:689
+#: core/classes/class.bookingpress-stripe-payment.php:710
+#: core/classes/class.bookingpress-stripe-payment.php:722
+#: core/classes/class.bookingpress-stripe-payment.php:946
+#: core/classes/class.bookingpress-stripe-payment.php:987
+#: core/classes/class.bookingpress-stripe-payment.php:998
+#: core/classes/class.bookingpress-stripe-payment.php:1038
+#: core/classes/class.bookingpress-stripe-payment.php:1056
+#: core/classes/class.bookingpress-stripe-payment.php:1081
+#: core/classes/class.bookingpress-stripe-payment.php:1185
+#: core/classes/class.bookingpress-stripe-payment.php:1242
+#: core/classes/class.bookingpress-stripe-payment.php:1251
+#: core/classes/class.bookingpress-stripe.php:816
+#@ bookingpress-stripe
+msgid "Error"
+msgstr "Error"
+
+#: core/classes/class.bookingpress-stripe-payment.php:343
+#: core/classes/class.bookingpress-stripe-payment.php:711
+#@ bookingpress-stripe
+msgid "Sorry, Your request can not process due to security reason."
+msgstr "Lo sentimos, su solicitud no puede procesarse por motivos de seguridad."
+
+#: core/classes/class.bookingpress-stripe-payment.php:723
+#@ bookingpress-stripe
+msgid "Sorry, your appointment caanot book due to payment not verified with stripe."
+msgstr "Lo sentimos, su cita no puede reservarse debido a que el pago no se verificó con la raya."
+
+#: core/classes/class.bookingpress-stripe-payment.php:757
+#@ bookingpress-stripe
+msgid "Pay Now"
+msgstr "Pagar ahora"
+
+#: core/classes/class.bookingpress-stripe-payment.php:925
+#@ bookingpress-stripe
+msgid "Appointment Booking"
+msgstr "Reserva de cita"
+
+#: core/classes/class.bookingpress-stripe-payment.php:80
+#: core/classes/class.bookingpress-stripe-payment.php:452
+#: core/classes/class.bookingpress-stripe-payment.php:947
+#@ bookingpress-stripe
+msgid "Please fill all card fields value"
+msgstr "Por favor complete el valor de todos los campos de la tarjeta"
+
+#: core/classes/class.bookingpress-stripe-payment.php:115
+#: core/classes/class.bookingpress-stripe-payment.php:126
+#: core/classes/class.bookingpress-stripe-payment.php:188
+#: core/classes/class.bookingpress-stripe-payment.php:488
+#: core/classes/class.bookingpress-stripe-payment.php:499
+#: core/classes/class.bookingpress-stripe-payment.php:557
+#: core/classes/class.bookingpress-stripe-payment.php:983
+#: core/classes/class.bookingpress-stripe-payment.php:994
+#: core/classes/class.bookingpress-stripe-payment.php:1052
+#@ bookingpress-stripe
+msgid "Stripe Error"
+msgstr "Error de franja"
+
+#: core/classes/class.bookingpress-stripe-payment.php:116
+#: core/classes/class.bookingpress-stripe-payment.php:189
+#: core/classes/class.bookingpress-stripe-payment.php:489
+#: core/classes/class.bookingpress-stripe-payment.php:558
+#: core/classes/class.bookingpress-stripe-payment.php:984
+#: core/classes/class.bookingpress-stripe-payment.php:1053
+#@ bookingpress-stripe
+msgid "Something went wrong while creating customer with stripe."
+msgstr "Algo salió mal al crear el cliente con franja."
+
+#: core/classes/class.bookingpress-stripe-payment.php:127
+#: core/classes/class.bookingpress-stripe-payment.php:500
+#: core/classes/class.bookingpress-stripe-payment.php:995
+#@ bookingpress-stripe
+msgid "Something went wrong while pay with stripe using provided card details."
+msgstr "Algo salió mal al pagar con una banda utilizando los datos de la tarjeta proporcionados."
+
+#: core/classes/class.bookingpress-stripe-payment.php:220
+#: core/classes/class.bookingpress-stripe-payment.php:587
+#: core/classes/class.bookingpress-stripe-payment.php:1082
+#@ bookingpress-stripe
+msgid "Something went wrong while creating payment intent"
+msgstr "Algo salió mal al crear la intención de pago"
+
+#: core/classes/class.bookingpress-stripe-payment.php:322
+#: core/classes/class.bookingpress-stripe-payment.php:690
+#: core/classes/class.bookingpress-stripe-payment.php:1186
+#@ bookingpress-stripe
+msgid "Something went wrong while payment with stripe"
+msgstr "Algo salió mal durante el pago con la raya"
+
+#: core/classes/class.bookingpress-stripe.php:280
+#: core/classes/class.bookingpress-stripe.php:574
+#@ bookingpress-stripe
+msgid "Stripe"
+msgstr "Raya"
+
+#: core/classes/class.bookingpress-stripe.php:84
+#: core/classes/class.bookingpress-stripe.php:91
+#: core/classes/class.bookingpress-stripe.php:166
+#: core/classes/class.bookingpress-stripe.php:173
+#: core/classes/class.bookingpress-stripe.php:246
+#: core/classes/class.bookingpress-stripe.php:287
+#@ bookingpress-stripe
+msgid "Stripe payment title"
+msgstr "Título de pago de Stripe"
+
+#: core/classes/class.bookingpress-stripe.php:539
+#@ bookingpress-stripe
+msgid "Please enter api key"
+msgstr "Ingrese la clave API"
+
+#: core/classes/class.bookingpress-stripe.php:546
+#@ bookingpress-stripe
+msgid "Please enter  publishable key"
+msgstr "Ingrese la clave publicable"
+
+#: core/classes/class.bookingpress-stripe.php:553
+#@ bookingpress-stripe
+msgid "Please enter sca popup title"
+msgstr "Ingrese el título emergente de sca"
+
+#: core/classes/class.bookingpress-stripe.php:560
+#@ bookingpress-stripe
+msgid "Please enter payment button label"
+msgstr "Ingrese la etiqueta del botón de pago"
+
+#: core/classes/class.bookingpress-stripe.php:585
+#@ bookingpress-stripe
+msgid "Payment Mode"
+msgstr "Modo de pago"
+
+#: core/classes/class.bookingpress-stripe.php:594
+#@ bookingpress-stripe
+msgid "Secret Key"
+msgstr "Llave secreta"
+
+#: core/classes/class.bookingpress-stripe.php:598
+#@ bookingpress-stripe
+msgid "Enter secret key"
+msgstr "Introduce la clave secreta"
+
+#: core/classes/class.bookingpress-stripe.php:604
+#@ bookingpress-stripe
+msgid "Publishable Key"
+msgstr "Clave publicable"
+
+#: core/classes/class.bookingpress-stripe.php:608
+#@ bookingpress-stripe
+msgid "Enter publishable key"
+msgstr "Introduce la clave publicable"
+
+#: core/classes/class.bookingpress-stripe.php:614
+#@ bookingpress-stripe
+msgid "Payment Method"
+msgstr "Método de pago"
+
+#: core/classes/class.bookingpress-stripe.php:618
+#@ bookingpress-stripe
+msgid "Built-In Form Fields"
+msgstr "Campos de formulario integrados"
+
+#: core/classes/class.bookingpress-stripe.php:623
+#: core/classes/class.bookingpress-stripe.php:627
+#@ bookingpress-stripe
+msgid "Enter popup title"
+msgstr "Introduce el título de la ventana emergente"
+
+#: core/classes/class.bookingpress-stripe.php:634
+#@ bookingpress-stripe
+msgid "Payment Button Label"
+msgstr "Etiqueta del botón de pago"
+
+#: core/classes/class.bookingpress-stripe.php:638
+#@ bookingpress-stripe
+msgid "Enter payment button label"
+msgstr "Ingrese la etiqueta del botón de pago"
+
+#: core/classes/class.bookingpress-stripe.php:700
+#@ bookingpress-stripe
+msgid "Bookingpress - Stripe plugin requires Bookingpress Premium Plugin installed and active."
+msgstr "Bookingpress: el complemento de Stripe requiere el complemento Premium de Bookingpress instalado y activo."
+
+#: core/classes/class.bookingpress-stripe.php:805
+#@ bookingpress-stripe
+msgid "Please fill all fields value of card details"
+msgstr "Complete todos los campos con el valor de los detalles de la tarjeta"
+
+#: core/classes/class.bookingpress-stripe.php:628
+#@ bookingpress-stripe
+msgid "This shortcode will display booked appointment service name"
+msgstr "Este shortcode mostrará el nombre del servicio de cita reservada"
+
+#: core/classes/class.bookingpress-stripe.php:639
+#@ bookingpress-stripe
+msgid "This shortcode will display total payable amount"
+msgstr "Este shortcode mostrará el monto total a pagar"
+
+#: core/classes/class.bookingpress-stripe.php:714
+#: core/classes/class.bookingpress-stripe.php:723
+#: core/views/upgrade_latest_data.php:11
+#: core/views/upgrade_latest_data.php:28
+#@ bookingpress-stripe
+msgid "Credit Card"
+msgstr "Tarjeta de crédito"
+
+#: core/classes/class.bookingpress-stripe-payment.php:1237
+#@ bookingpress-stripe
+msgid "Success"
+msgstr "Éxito"
+
+#: core/classes/class.bookingpress-stripe-payment.php:1243
+#@ bookingpress-stripe
+msgid "Sorry! refund could not be processed"
+msgstr "¡Lo siento! no se pudo procesar el reembolso"
+
+#: core/classes/class.bookingpress-stripe-payment.php:1248
+#@ bookingpress-stripe
+msgid "Error Code"
+msgstr "Código de error"
+
+#: core/classes/class.bookingpress-stripe-payment.php:429
+#@ bookingpress-stripe
+msgid "Package Booking"
+msgstr "Reserva de paquetes"
+
+#: core/classes/class.bookingpress-stripe-payment.php:349
+#@ bookingpress-stripe
+msgid "Sorry, payment is not successed with the stripe."
+msgstr "Lo sentimos, el pago no se realizó correctamente con la raya."
+
+#: core/classes/class.bookingpress-stripe.php:617
+#@ bookingpress-stripe
+msgid "SCA Compliant (Recommended)"
+msgstr "Cumple con SCA (recomendado)"
+
+#: core/classes/class.bookingpress-stripe.php:645
+#@ bookingpress-stripe
+msgid "Webhook URL"
+msgstr "URL de webhook"
+
+#. translators: plugin header field 'Version'
+#: bookingpress-stripe.php:0
+#@ bookingpress-stripe
+msgid "1.9"
+msgstr "1.9"
+
+#: core/classes/class.bookingpress-stripe-payment.php:57
+#@ bookingpress-stripe
+msgid "Gift Card Purchase"
+msgstr "Compra de tarjeta de regalo"
+
+#: core/classes/class.bookingpress-stripe.php:652
+#@ bookingpress-stripe
+msgid "Country Specific Settings (optional)"
+msgstr "Configuración específica del país (opcional)"
+
+#: core/classes/class.bookingpress-stripe.php:657
+#@ bookingpress-stripe
+msgid "Select your country"
+msgstr "Selecciona tu pais"
+
+#: core/classes/class.bookingpress-stripe.php:661
+#@ bookingpress-stripe
+msgid "Please select country"
+msgstr "Por favor seleccione país"
+
+#: core/classes/class.bookingpress-stripe.php:670
+#@ bookingpress-stripe
+msgid "Accept International Payments"
+msgstr "Aceptar pagos internacionales"
+
+#: core/classes/class.bookingpress-stripe.php:676
+#, php-format
+#@ bookingpress-stripe
+msgid "Enabling this option will requires additional steps to follow. Please refer our documentation %s"
+msgstr "Habilitar esta opción requerirá seguir pasos adicionales. Consulte nuestra documentación %s"
+
+#: core/classes/class.bookingpress-stripe.php:676
+#@ bookingpress-stripe
+msgid "here"
+msgstr "aquí"
+

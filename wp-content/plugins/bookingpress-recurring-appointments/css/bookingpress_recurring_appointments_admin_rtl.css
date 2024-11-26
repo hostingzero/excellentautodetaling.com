@@ -1,0 +1,6 @@
+.bpa-manage-appointment-items .bpa-apc__ar-icons .bookingpress-recurring-appointment-list-data span.material-icons-round { margin-left: 3px; }
+.bpa-dialog--add-recurring-edit .bpa-add-categpry-container {padding: 14px 0px 0px 2px;}
+.bpa-recurring-appointment-body .bpa-card__item{ right: unset; left:23px; }
+.bpa-repeat-appointment .bpa-repeat-appointment-col,.bpa-recurring-appointment-data .bpa-upcomming-appointments {float: right;}
+.rec-list-appointment-title-head, .rec-list-appointment-title, .bpa-rec-transaction-heading, .recurring_appointment_data-col { float: right;}
+.rec-list-appointment-title-head-id { margin-right: 0px; margin-left: 15px;}

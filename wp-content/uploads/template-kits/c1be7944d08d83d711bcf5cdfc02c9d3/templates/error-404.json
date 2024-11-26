@@ -1,0 +1,223 @@
+{
+    "version": "0.4",
+    "title": "Error 404",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "46d93760",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 500,
+                    "sizes": []
+                },
+                "min_height": {
+                    "unit": "vh",
+                    "size": 100,
+                    "sizes": []
+                },
+                "min_height_tablet": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "min_height_mobile": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "flex_justify_content": "center",
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/mechanic-in-overalls-repairing-car-in-auto-repair-2022-12-16-18-39-34-utc.jpg",
+                    "id": 171,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.3,
+                    "sizes": []
+                },
+                "css_filters_css_filter": "custom",
+                "css_filters_saturate": {
+                    "unit": "px",
+                    "size": 0,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=439d3aa"
+                },
+                "_title": "404"
+            },
+            "elements": [
+                {
+                    "id": "1935c08d",
+                    "settings": {
+                        "_title": "Edit Here"
+                    },
+                    "elements": [
+                        {
+                            "id": "7e7b8fbe",
+                            "settings": {
+                                "ekit_heading_title": "4{{0}}4",
+                                "ekit_heading_title_tag": "h1",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_title_align": "text_center",
+                                "ekit_heading_title_color": "#FFFFFF",
+                                "ekit_heading_title_color_hover": "#FFFFFF",
+                                "ekit_heading_title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_heading_title_typography_typography": "custom",
+                                "ekit_heading_title_typography_font_family": "Oswald",
+                                "ekit_heading_title_typography_font_size": {
+                                    "unit": "rem",
+                                    "size": 15.625,
+                                    "sizes": []
+                                },
+                                "ekit_heading_title_typography_font_size_tablet": {
+                                    "unit": "rem",
+                                    "size": 12.5,
+                                    "sizes": []
+                                },
+                                "ekit_heading_title_typography_font_size_mobile": {
+                                    "unit": "rem",
+                                    "size": 9,
+                                    "sizes": []
+                                },
+                                "ekit_heading_title_typography_font_weight": "500",
+                                "ekit_heading_title_typography_text_transform": "capitalize",
+                                "ekit_heading_title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1,
+                                    "sizes": []
+                                },
+                                "ekit_heading_title_typography_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_color": "#FEBD1A",
+                                "ekit_heading_focused_title_color_hover": "#FEBD1A",
+                                "ekit_heading_focused_title_typography_typography": "custom",
+                                "ekit_heading_focused_title_typography_font_family": "Oswald",
+                                "ekit_heading_focused_title_typography_font_size": {
+                                    "unit": "rem",
+                                    "size": 15.625,
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_font_size_tablet": {
+                                    "unit": "rem",
+                                    "size": 12.5,
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_font_size_mobile": {
+                                    "unit": "rem",
+                                    "size": 9,
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_font_weight": "500",
+                                "ekit_heading_focused_title_typography_text_transform": "capitalize",
+                                "ekit_heading_focused_title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1,
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_heading_use_title_text_fill": "yes",
+                                "ekit_heading_title_secondary_bg_background": "gradient",
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "__globals__": {
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=f99cedb",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=f99cedb",
+                                    "ekit_heading_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_title_color_hover": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=accent",
+                                    "ekit_heading_focused_title_color_hover": "globals\/colors?id=accent",
+                                    "ekit_heading_title_text_decoration_color": "",
+                                    "ekit_heading_title_secondary_bg_color": "globals\/colors?id=accent",
+                                    "ekit_heading_title_secondary_bg_color_b": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3492e997",
+                            "settings": {
+                                "title": "Oops! Page Not Found",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6f84f0c5",
+                            "settings": {
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1759bcf3",
+                            "settings": {
+                                "text": "Back to home",
+                                "align": "center",
+                                "link": {
+                                    "url": "https:\/\/tykit.rometheme.pro\/travice\/template-kit\/homepage\/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "hover_animation": "grow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_canvas"
+    }
+}

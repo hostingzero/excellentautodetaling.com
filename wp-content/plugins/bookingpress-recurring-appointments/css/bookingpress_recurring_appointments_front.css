@@ -1,0 +1,399 @@
+
+.bpa-recurring-head-col .bpa-front-btn{
+    width:100%;
+    /* padding-right: 10px; */
+}
+.bpa-hh-item__date-col-date .bpa-front-tm--item-icon svg {
+    width: 18px;
+    height: 18px;
+    fill: var(--bpa-dt-black-200);
+}
+.bpa-recurring-head-col label{
+    font-size: 14px;
+    font-weight: 600;
+}
+.bpa-recurring-appointment-body {
+    position: relative;
+}
+.bpa-recurring-appointment-body .bpa-lspd__item{
+	border: 1px solid var(--bpa-dt-black-100);
+	border-radius: var(--bpa-radius-6px);
+	padding: 12px 20px;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-bottom: 28px;
+}
+.bpa-recurring-appointment-head{
+    margin-bottom: 32px;
+}
+.bpa-recurring-appointment-content {
+    margin-top: 12px;
+}
+.bpa-card__item .bpa-front-btn--icon-without-box{
+	justify-content: center;
+}
+.bpa-card__item .bpa-front-btn--icon-without-box:hover{
+	background-color: var(--bpa-pt-main-green) !important;
+	border-color: var(--bpa-pt-main-green) !important;
+}
+.bpa-card__item .bpa-front-btn--icon-without-box span .material-icons-round{ /* Material Icon Support - 02/01/2023 */
+	vertical-align: middle;
+}
+.bpa-card__item .bpa-front-btn--icon-without-box span svg{
+	vertical-align: middle;
+	fill: var(--bpa-dt-black-200);
+}
+.bpa-card__item .bpa-front-btn--icon-without-box:hover span svg{
+	fill: var(--bpa-cl-white) !important;
+}
+.bpa-recurring-head-col .bpa-recurring-appointment-head-row{
+    margin-top: 6px;
+}
+.bpa-recurring-appointment-body-content {
+    margin-top: 8px;
+}
+.bpa-hh-item-info-col p,
+.bpa-hh-item__date-col span{
+	font-size: 14px;
+}
+.bpa-upcomming-suggested .bpa-lspd__item{
+	border-color: #F5AE41;
+	background-color:#f5eee5;
+}
+.bpa-upcomming-notavaliable .bpa-lspd__item{
+	border-color: #ff0000;
+	background-color:#ffe8e7;
+}
+.bpa-recurring-msg-notavaliable span{
+	color: #ff0000;	
+}
+.bpa-recurring-msg-notavaliable svg{
+	fill: #ff0000;
+}
+
+.bpa-recurring-msg-suggested span{
+	color: #F5AE41;	
+}
+.bpa-recurring-msg-suggested svg{
+	fill: #F5AE41;	
+}
+.bpa-upcomming-appointments .bpa-recurring-msg {width: 100%;}
+.bpa-recurring-msg svg{
+	height: 22px;
+	width: 22px;
+	margin-right: 3px;
+	padding-top: 5px;
+}
+.bpa-recurring-msg span{
+    font-size: 13px;
+    font-weight: 500;
+}
+.el-select-dropdown .el-select-dropdown__list .el-select-dropdown__item.is-disabled{
+    opacity: 0.5;
+}
+.bpa-dialog--add-recurring-edit .el-dialog__headerbtn .el-dialog__close{
+    visibility: hidden;
+}
+
+
+/*
+.bpa-recurring-m-left{
+    padding-left: 15px !important;
+}
+.bpa-recurring-m-right{
+    padding-right: 15px !important;
+}
+.bpa-recurring-m-right-m{
+    padding-right: 20px !important;
+}
+*/
+
+/* Admin Dialog Box CSS file added */
+
+.bpa-dailog__small{
+    max-width: 320px;
+    border-radius: var(--bpa-radius-6px);
+    /*z-index: 999999; */
+}
+.bpa-dailog__small::before,
+.bpa-dailog__small::after{
+    content: '';
+    position: absolute;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    top: -9px;
+    right: 42px;
+}
+.bpa-dailog__small::before{
+    border-bottom: 8px solid var(--bpa-gt-gray-400);
+    margin-top: 0;
+}
+.bpa-dailog__small::after{
+    border-bottom: 8px solid #fff;
+    margin-top: 1px;
+    z-index: 1;
+    border-left-width: 9px;
+    border-right-width: 9px;
+    margin-right: 1px;
+}
+.bpa-dailog__small .bpa-dialog-heading{
+    padding: 24px 0 16px 24px;
+    margin-bottom: 0;
+}
+.bpa-dailog__small .bpa-dialog-heading .bpa-page-heading{
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--bpa-dt-black-300);
+}
+.bpa-dailog__small .bpa-dialog-footer{
+    padding: 16px 24px 16px 0px;
+    border-top: 1px solid var(--bpa-gt-gray-400);
+}
+
+.bpa-dailog__small{
+    max-width: 320px;
+    border-radius: var(--bpa-radius-6px);
+    z-index: 99999;
+}
+.bpa-dailog__small::before,
+.bpa-dailog__small::after{
+    content: '';
+    position: absolute;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    top: -9px;
+    right: 42px;
+}
+.bpa-dailog__small::before{
+    border-bottom: 8px solid var(--bpa-gt-gray-400);
+    margin-top: 0;
+}
+.bpa-dailog__small::after{
+    border-bottom: 8px solid #fff;
+    margin-top: 1px;
+    z-index: 1;
+    border-left-width: 9px;
+    border-right-width: 9px;
+    margin-right: 1px;
+}
+.bpa-dailog__small .bpa-dialog-heading{
+    padding: 24px 0 16px 24px;
+    margin-bottom: 0;
+}
+.bpa-dailog__small .bpa-dialog-heading .bpa-page-heading{
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--bpa-dt-black-300);
+}
+.bpa-dailog__small .bpa-dialog-footer{
+    padding: 16px 24px 16px 0px;
+    border-top: 1px solid var(--bpa-gt-gray-400);
+}
+.el-dialog__wrapper {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+    margin: 0;
+    z-index: 2010 !important;
+}
+.bpa-dailog__small .bpa-dialog-heading {
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--bpa-dt-black-300);
+	border-bottom: 1px solid var(--bpa-gt-gray-400);
+}
+.el-dialog__body {
+    color: #606266;
+    font-size: 14px;
+    word-break: break-all;
+}
+.bpa-dailog__small .bpa-add-categpry-container {
+    padding: 20px 24px 24px 24px;
+}
+.bpa-grid-list-container {
+    flex-direction: column;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.bpa-btn__small{
+	padding: 8px 16px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    border-radius: var(--bpa-radius-4px);	
+}
+.bpa-hw-right-btn-group {
+    display: flex;
+    justify-content: flex-end;
+}
+.bpa-btn--primary{
+    border-color: var(--bpa-pt-main-green);
+    background-color: var(--bpa-pt-main-green);
+    color: var(--bpa-cl-white);
+}
+.bpa-recurring-appointment-loader{
+	min-height: 400px;
+}
+.bpa-hh-item__date-col span,.bpa_rec_popover_datetime_item { font-weight: 500;}
+.bpa-front-bs-sm__item-val.bpa_rec_popover_datetime_item { margin-bottom: 5px;}
+.bpa-front-bs-sm__item-val.bpa_rec_popover_datetime_item:last-child { margin-bottom: 0;}
+.bpa-do-not-group-timing.el-select-group__wrap:not(:last-of-type) { padding: 0; }
+.bpa-do-not-group-timing.el-select-group__wrap:not(:last-of-type)::after { content: none; }
+.bpa-front-tabs.--bpa-top .bpa-front-module--date-and-time:not(.__sm) .el-row--flex { flex-direction: row;}
+.bpa-recurring-msg span:nth-child(2), .bpa-hh-item__date-col.bpa-hh-item__date-col-date span:nth-child(2){ position: relative; top: -4px;}
+.bpa-front-module--booking-summary .bpa-front-module--bs-summary-content .bpa-front-module--bs-summary-content-item span.bpa--summary_service_datetime_count_name,
+.bpa-thank-you-datetime-count{
+	display: inline-block !important;
+	border-bottom: 1px dashed;
+    font-size: 14px;
+}
+.bpa-aaf-recurring__item.bpa_summary_service_datetime_block{
+	display: grid;
+	justify-content: normal;
+	margin-bottom: 5px;
+}
+
+.bpa-aaf-recurring__item.bpa_summary_service_datetime_block:last-child{
+	margin-bottom:0px;
+}
+.bpa_summary_rec_datetime_body_inner.bpa-front-module--bs-summary-content-item{
+	border-right: 0 !important;
+	padding: 0 !important;
+	display: flex;
+	animation:none !important;
+	-webkit-animation: none !important;
+}
+.bpa-reacurring-date-time-mobile-step .bpa-recurring-appointment-body .bpa-upcoming-appointments-label{
+    padding: 0 16px; 
+}
+.bpa-reacurring-date-time-mobile-step .bpa-front-recurring--filter-wrapper {
+    padding: 0 16px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bpa-reacurring-date-time-mobile-step .bpa-recurring-head-col.bpa-recurring-m-right { padding-left: 0 !important;}
+.bpa-reacurring-date-time-mobile-step .bpa-recurring-head-col-other-filter {
+    margin-top: 20px;
+}
+.bpa-reacurring-date-time-mobile-step .bpa-recurring-head-col-other-filter .el-row--flex{
+    flex-direction: row !important;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.bpa-reacurring-date-time-mobile-step .bpa-recurring-head-col-other-filter .bpa-recurring-head-col:nth-child(2) {
+    padding-right: 0 !important;
+}
+.bpa-reacurring-date-time-mobile-step .bpa-recurring-head-col-other-filter .bpa-recurring-head-col:nth-child(1) {
+    padding-left: 0 !important;
+}
+.bpa-reacurring-date-time-mobile-step .bpa-recurring-appointment-body .bpa-lspd__item {
+    border: none;
+    border-bottom: 1px solid var(--bpa-dt-black-100);
+	border-radius: 0;
+    margin-bottom: 0;
+}
+.bpa-reacurring-date-time-mobile-step .bpa-upcomming-appointments:last-child .bpa-lspd__item {
+    border: none;
+}
+.bpa-reacurring-date-time-mobile-step .bpa-lspd__item .bpa-edit-appointment-btn{
+    padding: 0;
+}
+.bpa-dialog--add-recurring-edit .el-form-item { margin-bottom: 15px;}
+
+.bpa-front-booking-popup .v-modal{
+    background: none;
+    z-index: 99 !important;
+}
+
+.bpa-card-item-mobile-edit-appointment { 
+    width: 100%;
+    margin-top: 12px;
+    border-radius: var(--bpa-radius-16px) var(--bpa-radius-16px) var(--bpa-radius-8px) var(--bpa-radius-8px);
+}
+.bpa-card-item-mobile-edit-appointment { padding-top:20px; padding-bottom: 16px;}
+.bpa-card-item-mobile-edit-appointment .bpa-edit-appointment-item { padding-left: 20px; padding-right: 20px; }
+.bpa-card-item-mobile-edit-appointment .bpa-edit-appointment-heading .bpa-page-heading{ font-size: 16px; font-weight: 600; margin-bottom: 16px; padding-left: 20px;}
+.bpa-card-item-mobile-edit-appointment .bpa-form-body-row .bpa-form-body-row-item { margin-bottom: 16px; } 
+.bpa-card-item-mobile-edit-appointment .bpa-edit-appointment-body { border-bottom: 1px solid var(--bpa-gt-gray-400); }  
+.bpa-card-item-mobile-edit-appointment .bpa-edit-appointment-footer { margin-top: 20px;}
+.bpa-card-item-mobile-edit-appointment {background-color: rgba(18,212,136,0.08);}
+
+.bpa-front-booking-popup .bpa-fm--service__advance-options-popper{
+    z-index: 20999 !important;
+}
+.bpa-recurring-appointment-loader-edit .bpa-front-loader{
+    /* background-color: #fff; */
+}
+.bpa--summary_service_datetime_count_name{
+    cursor: pointer;
+}
+.bpa-thank-you-datetime-count{
+    font-weight: normal;
+}
+.bpa-recurring-appointment-loader-edit{
+    height: 100% !important;
+}
+.bpa-dialog--add-recurring-edit .bpa-dialog-body{
+    min-height: 206px;
+}
+.bpa-card-item-mobile-edit-appointment .bpa-edit-appointment-item .bpa-grid-list-container{
+    min-height: 182px !important;
+}
+.bpa-card-item-mobile-edit-appointment .bpa-recurring-appointment-loader-edit{
+    display: contents;
+}
+.bpa-card-item-mobile-edit-appointment .bpa-recurring-appointment-loader-edit .bpa-front-loader-container{
+    position: relative;
+    display: contents;
+} 
+.bpa-custom-recurring-datepicker{
+    z-index: 3009 !important;
+}
+.bpa--summary-recurring_front_popover{
+    min-height: 140px;
+}
+
+.bpa--summary-recurring_front_popover .bpa-front-sm-module--booking-service-wrapper{
+    padding: 20px !important;
+}
+.bpa-reacurring-date-time-mobile-step .bpa-front--dt__wrapper{
+    margin: 0 !important;
+    grid-template-columns: unset !important;
+}
+.bpa-upcomming-appointments{
+    display: table-cell;
+}
+.bpa--summary-recurring_front_popover,.bpa--summary_front_recurring-popup-thankyou{
+	/* box-shadow: 1px 4px 12px rgba(114, 126, 149, 0.20); */    
+	border: 1px solid var(--bpa-gt-gray-400);
+    border-radius: var(--bpa-radius-8px);
+}
+.bpa-custom-recurring-datepicker .el-date-table td.disabled div{
+    background-color: unset;
+}
+.bpa--summary_front_recurring-popup-thankyou[x-placement^=bottom]{
+    margin-bottom: 0 !important;
+}
+/* New Style */
+/*
+.bpa-fm--service__advance-rec-no-popover{
+    z-index: 99999999 !important;
+}
+.bpa-fm--service__advance-rec-no-popover .el-select-dropdown__list{
+    padding: 6px 0 !important;
+}
+.bpa-fm--service__advance-rec-no-popover .el-select-dropdown__item{
+    padding: 0 20px !important;
+    height: 34px !important;
+    line-height: 34px !important;    
+}
+.bpa-fm--service__advance-rec-no-popover.el-popper[x-placement^=bottom]{
+    margin-top: 0px !important;
+}
+*/

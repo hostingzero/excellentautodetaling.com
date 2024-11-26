@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Invoice Addon v2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-04-24 14:23:00+0000\n"
+"Last-Translator: admin <admin@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: bookingpress-invoice.php:0
+#@ bookingpress-invoice
+msgid "BookingPress - Invoice Addon"
+msgstr "BookingPress - Invoice Addon"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: bookingpress-invoice.php:0
+#@ bookingpress-invoice
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+#. translators: plugin header field 'Description'
+#: bookingpress-invoice.php:0
+#@ bookingpress-invoice
+msgid "Invoice Integration."
+msgstr "Invoice Integration."
+
+#. translators: plugin header field 'Author'
+#: bookingpress-invoice.php:0
+#@ bookingpress-invoice
+msgid "Repute InfoSystems"
+msgstr "Repute InfoSystems"
+
+#: core/classes/class.bookingpress-invoice.php:99
+#: core/classes/class.bookingpress-invoice.php:112
+#: core/classes/class.bookingpress-invoice.php:287
+#: core/classes/class.bookingpress-invoice.php:322
+#: core/classes/class.bookingpress-invoice.php:362
+#: core/classes/class.bookingpress-invoice.php:372
+#: core/classes/class.bookingpress-invoice.php:1363
+#: core/classes/class.bookingpress-invoice.php:1452
+#: core/classes/class.bookingpress-invoice.php:1902
+#: core/views/settings/invoice_setting_tab.php:4
+#: core/views/settings/invoice_setting_tab.php:9
+#@ bookingpress-invoice
+msgid "Invoice"
+msgstr "Invoice"
+
+#: core/classes/class.bookingpress-invoice.php:560
+#@ bookingpress-invoice
+msgid "mPDF Library for BookingPress invoice required Minimum PHP version 7.1 or greater."
+msgstr "mPDF Library for BookingPress invoice required Minimum PHP version 7.1 or greater."
+
+#: core/classes/class.bookingpress-invoice.php:564
+#@ bookingpress-invoice
+msgid "Bookingpress - Invoice plugin requires Bookingpress Premium Plugin installed and active."
+msgstr "Bookingpress - Invoice plugin requires Bookingpress Premium Plugin installed and active."
+
+#: core/classes/class.bookingpress-invoice.php:712
+#: core/classes/class.bookingpress-invoice.php:747
+#: core/classes/class.bookingpress_pro_plugin_updater.php:519
+#@ bookingpress-invoice
+msgid "Error"
+msgstr "Error"
+
+#: core/classes/class.bookingpress-invoice.php:723
+#: core/classes/class.bookingpress-invoice.php:774
+#@ bookingpress-invoice
+msgid "Success"
+msgstr "Success"
+
+#: core/classes/class.bookingpress-invoice.php:724
+#@ bookingpress-invoice
+msgid "Invoice Counter Update successfully."
+msgstr "Invoice Counter Update successfully."
+
+#: core/classes/class.bookingpress-invoice.php:775
+#@ bookingpress-invoice
+msgid "Settings has been updated successfully."
+msgstr "Settings has been updated successfully."
+
+#: core/classes/class.bookingpress-invoice.php:861
+#@ bookingpress-invoice
+msgid "invoice"
+msgstr "invoice"
+
+#: core/classes/class.bookingpress-invoice.php:871
+#@ bookingpress-invoice
+msgid "company"
+msgstr "company"
+
+#: core/classes/class.bookingpress-invoice.php:1098
+#@ bookingpress-invoice
+msgid "Tag copied successfully"
+msgstr "Tag copied successfully"
+
+#: core/classes/class.bookingpress-invoice.php:1396
+#@ bookingpress-invoice
+msgid "Font not found"
+msgstr "Font not found"
+
+#: core/classes/class.bookingpress-invoice.php:1441
+#@ bookingpress-invoice
+msgid "send a PDF"
+msgstr "send a PDF"
+
+#: core/views/settings/invoice_setting_tab.php:14
+#@ bookingpress-invoice
+msgid "Save"
+msgstr "Save"
+
+#: core/views/settings/invoice_setting_tab.php:27
+#@ bookingpress-invoice
+msgid "Invoice Settings"
+msgstr "Invoice Settings"
+
+#: core/views/settings/invoice_setting_tab.php:50
+#@ bookingpress-invoice
+msgid "Invoice prefix/suffix"
+msgstr "Invoice prefix/suffix"
+
+#: core/views/settings/invoice_setting_tab.php:85
+#@ bookingpress-invoice
+msgid "Minimum Invoice Length"
+msgstr "Minimum Invoice Length"
+
+#: core/views/settings/invoice_setting_tab.php:116
+#@ bookingpress-invoice
+msgid "Invoice due days"
+msgstr "Invoice due days"
+
+#: core/views/settings/invoice_setting_tab.php:126
+#@ bookingpress-invoice
+msgid "Font"
+msgstr "Font"
+
+#: core/views/settings/invoice_setting_tab.php:32
+#: core/views/settings/invoice_setting_tab.php:140
+#: core/views/settings/invoice_setting_tab.php:287
+#@ bookingpress-invoice
+msgid "Cancel"
+msgstr "Cancel"
+
+#: core/views/settings/invoice_setting_tab.php:141
+#@ bookingpress-invoice
+msgid "Update"
+msgstr "Update"
+
+#: core/views/settings/invoice_setting_tab.php:146
+#@ bookingpress-invoice
+msgid "Settings"
+msgstr "Settings"
+
+#: core/views/settings/invoice_setting_tab.php:255
+#@ bookingpress-invoice
+msgid "Tags"
+msgstr "Tags"
+
+#: core/views/settings/invoice_setting_tab.php:31
+#@ bookingpress-invoice
+msgid "Approve"
+msgstr "Approve"
+
+#: core/views/settings/invoice_setting_tab.php:34
+#@ bookingpress-invoice
+msgid "Are you sure you want to reset invoice counter?"
+msgstr "Are you sure you want to reset invoice counter?"
+
+#: core/views/settings/invoice_setting_tab.php:152
+#: core/views/settings/invoice_setting_tab.php:282
+#@ bookingpress-invoice
+msgid "Invoice Preview"
+msgstr "Invoice Preview"
+
+#. translators: the plugin name.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:256
+#, php-format
+#@ bookingpress-invoice
+msgid "There is a new version of %1$s available."
+msgstr "There is a new version of %1$s available."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:262
+#@ bookingpress-invoice
+msgid "Contact your network administrator to install the update."
+msgstr "Contact your network administrator to install the update."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#: core/classes/class.bookingpress_pro_plugin_updater.php:267
+#, php-format
+#@ bookingpress-invoice
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sView version %2$s details%3$s."
+
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
+#: core/classes/class.bookingpress_pro_plugin_updater.php:276
+#, php-format
+#@ bookingpress-invoice
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:287
+#@ bookingpress-invoice
+msgid "Update now."
+msgstr "Update now."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:519
+#@ bookingpress-invoice
+msgid "You do not have permission to install plugin updates"
+msgstr "You do not have permission to install plugin updates"
+
+#: core/views/settings/invoice_setting_tab.php:39
+#@ bookingpress-invoice
+msgid "Reset Counter"
+msgstr "Reset Counter"
+
+#: core/views/settings/invoice_setting_tab.php:63
+#@ bookingpress-invoice
+msgid "Invoice Suffix"
+msgstr "Invoice Suffix"
+
+#: core/views/settings/invoice_setting_tab.php:75
+#@ bookingpress-invoice
+msgid "Invoice Prefix"
+msgstr "Invoice Prefix"
+
+#: core/classes/class.bookingpress-invoice.php:572
+#@ bookingpress-invoice
+msgid "it's highly recommended to update the BookingPress Premium Plugin to version 1.2 or higher in order to use the BookingPress Invoice plugin"
+msgstr "it's highly recommended to update the BookingPress Premium Plugin to version 1.2 or higher in order to use the BookingPress Invoice plugin"
+
+#: core/classes/class.bookingpress-invoice.php:709
+#: core/classes/class.bookingpress-invoice.php:744
+#@ bookingpress-invoice
+msgid "Sorry. Something went wrong while processing the request"
+msgstr "Sorry. Something went wrong while processing the request"
+
+#: core/views/settings/invoice_setting_tab.php:66
+#@ bookingpress-invoice
+msgid "Enter Invoice Suffix"
+msgstr "Enter Invoice Suffix"
+
+#: core/views/settings/invoice_setting_tab.php:77
+#@ bookingpress-invoice
+msgid "Enter Invoice Prefix"
+msgstr "Enter Invoice Prefix"
+
+#: bookingpress-invoice.php:42
+#@ bookingpress-invoice
+msgid "BookingPress lite version 1.0.42 required to use BookingPress Invoice Add-on"
+msgstr "BookingPress lite version 1.0.42 required to use BookingPress Invoice Add-on"
+
+#: bookingpress-invoice.php:43
+#: core/classes/class.bookingpress-invoice.php:170
+#: core/classes/class.bookingpress-invoice.php:183
+#: core/classes/class.bookingpress-invoice.php:214
+#: core/classes/class.bookingpress-invoice.php:225
+#, php-format
+#@ bookingpress-invoice
+msgid "Please %s Click Here %s to Continue"
+msgstr "Please %s Click Here %s to Continue"
+
+#: core/classes/class.bookingpress-invoice.php:575
+#@ bookingpress-invoice
+msgid "it's highly recommended to update the BookingPress Premium Plugin to version 1.6 or higher in order to use the BookingPress Invoice plugin"
+msgstr "it's highly recommended to update the BookingPress Premium Plugin to version 1.6 or higher in order to use the BookingPress Invoice plugin"
+
+#: bookingpress-invoice.php:74
+#: bookingpress-invoice.php:106
+#@ bookingpress-invoice
+msgid "An error occurred, please try again."
+msgstr "An error occurred, please try again."
+
+#: bookingpress-invoice.php:82
+#, php-format
+#@ bookingpress-invoice
+msgid "Your license key expired on %s."
+msgstr "Your license key expired on %s."
+
+#: bookingpress-invoice.php:87
+#@ bookingpress-invoice
+msgid "Your license key has been disabled."
+msgstr "Your license key has been disabled."
+
+#: bookingpress-invoice.php:90
+#@ bookingpress-invoice
+msgid "Invalid license."
+msgstr "Invalid license."
+
+#: bookingpress-invoice.php:94
+#@ bookingpress-invoice
+msgid "Your license is not active for this URL."
+msgstr "Your license is not active for this URL."
+
+#: bookingpress-invoice.php:97
+#: bookingpress-invoice.php:100
+#@ bookingpress-invoice
+msgid "This appears to be an invalid license key for your selected package."
+msgstr "This appears to be an invalid license key for your selected package."
+
+#: bookingpress-invoice.php:103
+#@ bookingpress-invoice
+msgid "Your license key has reached its activation limit."
+msgstr "Your license key has reached its activation limit."
+
+#: core/classes/class.bookingpress-invoice.php:169
+#: core/classes/class.bookingpress-invoice.php:182
+#: core/classes/class.bookingpress-invoice.php:213
+#: core/classes/class.bookingpress-invoice.php:224
+#@ bookingpress-invoice
+msgid "Please activate license of BookingPress premium plugin to use BookingPress Invoice Add-on"
+msgstr "Please activate license of BookingPress premium plugin to use BookingPress Invoice Add-on"
+
+#: core/classes/class.bookingpress-invoice.php:95
+#: core/classes/class.bookingpress-invoice.php:120
+#@ bookingpress-invoice
+msgid "Download invoice button label"
+msgstr "Download invoice button label"
+
+#. translators: plugin header field 'Version'
+#: bookingpress-invoice.php:0
+#@ bookingpress-invoice
+msgid "2.2"
+msgstr "2.2"
+

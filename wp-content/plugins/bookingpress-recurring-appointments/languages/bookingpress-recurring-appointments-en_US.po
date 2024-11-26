@@ -1,0 +1,766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BookingPress - Recurring Appointments Addon v1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-04-24 12:29:25+0000\n"
+"Last-Translator: admin <testrepute123@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: bookingpress-recurring-appointments.php:0
+#@ bookingpress-recurring-appointments
+msgid "BookingPress - Recurring Appointments Addon"
+msgstr "BookingPress - Recurring Appointments Addon"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: bookingpress-recurring-appointments.php:0
+#@ bookingpress-recurring-appointments
+msgid "https://www.bookingpressplugin.com/"
+msgstr "https://www.bookingpressplugin.com/"
+
+#. translators: plugin header field 'Author'
+#: bookingpress-recurring-appointments.php:0
+#@ bookingpress-recurring-appointments
+msgid "Repute InfoSystems"
+msgstr "Repute InfoSystems"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1014
+#@ bookingpress-recurring-appointments
+msgid "Please select recurring start date"
+msgstr "Please select recurring start date"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1023
+#@ bookingpress-recurring-appointments
+msgid "Please select recurring timeslot"
+msgstr "Please select recurring timeslot"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1032
+#@ bookingpress-recurring-appointments
+msgid "Please select recurring no of session"
+msgstr "Please select recurring no of session"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1041
+#@ bookingpress-recurring-appointments
+msgid "Please select recurring frequency"
+msgstr "Please select recurring frequency"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1051
+#@ bookingpress-recurring-appointments
+msgid "Please add recurring appointment"
+msgstr "Please add recurring appointment"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1196
+#: core/classes/class.bookingpress-recurring-appointments.php:2019
+#: core/classes/class.bookingpress-recurring-appointments.php:3706
+#: core/classes/class.bookingpress-recurring-appointments.php:3724
+#: core/classes/class.bookingpress-recurring-appointments.php:3740
+#: core/classes/class.bookingpress-recurring-appointments.php:3776
+#: core/classes/class.bookingpress-recurring-appointments.php:3853
+#: core/classes/class.bookingpress-recurring-appointments.php:3872
+#: core/classes/class.bookingpress-recurring-appointments.php:3996
+#: core/classes/class.bookingpress-recurring-appointments.php:4043
+#: core/classes/class.bookingpress-recurring-appointments.php:4127
+#: core/classes/class.bookingpress-recurring-appointments.php:4146
+#: core/classes/class.bookingpress-recurring-appointments.php:4270
+#: core/classes/class.bookingpress-recurring-appointments.php:4317
+#: core/classes/class.bookingpress-recurring-appointments.php:4777
+#: core/classes/class.bookingpress-recurring-appointments.php:5345
+#: core/classes/class.bookingpress-recurring-appointments.php:5357
+#: core/classes/class.bookingpress-recurring-appointments.php:5369
+#: core/classes/class.bookingpress-recurring-appointments.php:5381
+#: core/classes/class.bookingpress-recurring-appointments.php:5411
+#: core/classes/class.bookingpress-recurring-appointments.php:5422
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+#@ bookingpress-recurring-appointments
+msgid "Error"
+msgstr "Error"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1197
+#: core/classes/class.bookingpress-recurring-appointments.php:4778
+#: core/classes/class.bookingpress-recurring-appointments.php:5412
+#@ bookingpress-recurring-appointments
+msgid "Sorry, Your request can not be processed due to security reason."
+msgstr "Sorry, Your request can not be processed due to security reason."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:469
+#: core/classes/class.bookingpress-recurring-appointments.php:1438
+#: core/classes/class.bookingpress-recurring-appointments.php:2678
+#: core/classes/class.bookingpress-recurring-appointments.php:2696
+#@ bookingpress-recurring-appointments
+msgid "Recurring Transaction"
+msgstr "Recurring Transaction"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1504
+#@ bookingpress-recurring-appointments
+msgid "Please add recurring appointment data"
+msgstr "Please add recurring appointment data"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1514
+#@ bookingpress-recurring-appointments
+msgid "Please select time slot for not available time slot."
+msgstr "Please select time slot for not available time slot."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1554
+#: core/classes/class.bookingpress-recurring-appointments.php:5649
+#: core/classes/class.bookingpress-recurring-appointments.php:5650
+#@ bookingpress-recurring-appointments
+msgid "Success"
+msgstr "Success"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1555
+#@ bookingpress-recurring-appointments
+msgid "Appointment has been booked successfully."
+msgstr "Appointment has been booked successfully."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1726
+#@ bookingpress-recurring-appointments
+msgid "at"
+msgstr "at"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1727
+#@ bookingpress-recurring-appointments
+msgid "on"
+msgstr "on"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1728
+#@ bookingpress-recurring-appointments
+msgid "by"
+msgstr "by"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1729
+#: core/classes/class.bookingpress-recurring-appointments.php:5629
+#: core/classes/class.bookingpress-recurring-appointments.php:5641
+#: core/classes/class.bookingpress-recurring-appointments.php:6420
+#@ bookingpress-recurring-appointments
+msgid "to"
+msgstr "to"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2020
+#: core/classes/class.bookingpress-recurring-appointments.php:5423
+#@ bookingpress-recurring-appointments
+msgid "Something went wrong.."
+msgstr "Something went wrong.."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2106
+#@ bookingpress-recurring-appointments
+msgid "Repeat Appointment"
+msgstr "Repeat Appointment"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2131
+#: core/classes/class.bookingpress-recurring-appointments.php:4940
+#: core/classes/class.bookingpress-recurring-appointments.php:4972
+#: core/classes/class.bookingpress-recurring-appointments.php:7066
+#: core/classes/class.bookingpress-recurring-appointments.php:7111
+#: core/classes/class.bookingpress-recurring-appointments.php:7573
+#@ bookingpress-recurring-appointments
+msgid "Frequency"
+msgstr "Frequency"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2150
+#: core/classes/class.bookingpress-recurring-appointments.php:4942
+#: core/classes/class.bookingpress-recurring-appointments.php:4974
+#: core/classes/class.bookingpress-recurring-appointments.php:7068
+#: core/classes/class.bookingpress-recurring-appointments.php:7119
+#: core/classes/class.bookingpress-recurring-appointments.php:7575
+#@ bookingpress-recurring-appointments
+msgid "Upcoming Appointments"
+msgstr "Upcoming Appointments"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2166
+#@ bookingpress-recurring-appointments
+msgid "Edit"
+msgstr "Edit"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4956
+#: core/classes/class.bookingpress-recurring-appointments.php:7621
+#@ bookingpress-recurring-appointments
+msgid "Please select date & time for not available appointment."
+msgstr "Please select date & time for not available appointment."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1069
+#@ bookingpress-recurring-appointments
+msgid "Selected date or time slot is suggested."
+msgstr "Selected date or time slot is suggested."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2192
+#: core/classes/class.bookingpress-recurring-appointments.php:4943
+#: core/classes/class.bookingpress-recurring-appointments.php:4975
+#: core/classes/class.bookingpress-recurring-appointments.php:7070
+#: core/classes/class.bookingpress-recurring-appointments.php:7123
+#: core/classes/class.bookingpress-recurring-appointments.php:7576
+#@ bookingpress-recurring-appointments
+msgid "Edit Appointment"
+msgstr "Edit Appointment"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2212
+#: core/classes/class.bookingpress-recurring-appointments.php:4944
+#: core/classes/class.bookingpress-recurring-appointments.php:4976
+#: core/classes/class.bookingpress-recurring-appointments.php:7071
+#: core/classes/class.bookingpress-recurring-appointments.php:7127
+#: core/classes/class.bookingpress-recurring-appointments.php:7577
+#@ bookingpress-recurring-appointments
+msgid "Date"
+msgstr "Date"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2220
+#: core/classes/class.bookingpress-recurring-appointments.php:4938
+#: core/classes/class.bookingpress-recurring-appointments.php:4970
+#: core/classes/class.bookingpress-recurring-appointments.php:7064
+#: core/classes/class.bookingpress-recurring-appointments.php:7103
+#: core/classes/class.bookingpress-recurring-appointments.php:7571
+#@ bookingpress-recurring-appointments
+msgid "Time"
+msgstr "Time"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2243
+#: core/classes/class.bookingpress-recurring-appointments.php:6304
+#: core/classes/class.bookingpress-recurring-appointments.php:6400
+#@ bookingpress-recurring-appointments
+msgid "Done"
+msgstr "Done"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2244
+#: core/classes/class.bookingpress-recurring-appointments.php:6303
+#: core/classes/class.bookingpress-recurring-appointments.php:6399
+#@ bookingpress-recurring-appointments
+msgid "Cancel"
+msgstr "Cancel"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2316
+#: core/classes/class.bookingpress-recurring-appointments.php:2383
+#: core/classes/class.bookingpress-recurring-appointments.php:6012
+#@ bookingpress-recurring-appointments
+msgid "Morning"
+msgstr "Morning"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2320
+#: core/classes/class.bookingpress-recurring-appointments.php:2387
+#: core/classes/class.bookingpress-recurring-appointments.php:6017
+#@ bookingpress-recurring-appointments
+msgid "Afternoon"
+msgstr "Morning"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2324
+#: core/classes/class.bookingpress-recurring-appointments.php:2391
+#: core/classes/class.bookingpress-recurring-appointments.php:6022
+#@ bookingpress-recurring-appointments
+msgid "Evening"
+msgstr "Evening"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2328
+#: core/classes/class.bookingpress-recurring-appointments.php:2395
+#: core/classes/class.bookingpress-recurring-appointments.php:6027
+#@ bookingpress-recurring-appointments
+msgid "Night"
+msgstr "Night"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2598
+#@ bookingpress-recurring-appointments
+msgid "Recurring Appointment"
+msgstr "Recurring Appointment"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:474
+#@ bookingpress-recurring-appointments
+msgid "ID: "
+msgstr "ID:"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:478
+#@ bookingpress-recurring-appointments
+msgid "Service: "
+msgstr "Service:"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:503
+#@ bookingpress-recurring-appointments
+msgid "Close"
+msgstr "Close"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2877
+#@ bookingpress-recurring-appointments
+msgid "Recurring Appointment color:"
+msgstr "Recurring Appointment color:"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2880
+#@ bookingpress-recurring-appointments
+msgid "Suggested Timeslot Color"
+msgstr "Suggested Timeslot Color"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2883
+#@ bookingpress-recurring-appointments
+msgid "Not Available Timeslot Color"
+msgstr "Not Available Timeslot Color"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:3772
+#: core/classes/class.bookingpress-recurring-appointments.php:4039
+#: core/classes/class.bookingpress-recurring-appointments.php:4313
+#@ bookingpress-recurring-appointments
+msgid "is off day"
+msgstr "is off day"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:3773
+#: core/classes/class.bookingpress-recurring-appointments.php:4040
+#: core/classes/class.bookingpress-recurring-appointments.php:4314
+#@ bookingpress-recurring-appointments
+msgid "So please select new date"
+msgstr "So please select new date"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:3806
+#: core/classes/class.bookingpress-recurring-appointments.php:4073
+#: core/classes/class.bookingpress-recurring-appointments.php:4347
+#@ bookingpress-recurring-appointments
+msgid "Sorry, Booking can not be done as minimum required time before booking is already passed"
+msgstr "Sorry, Booking can not be done as minimum required time before booking is already passed"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:3824
+#: core/classes/class.bookingpress-recurring-appointments.php:4093
+#: core/classes/class.bookingpress-recurring-appointments.php:4367
+#@ bookingpress-recurring-appointments
+msgid "Sorry, Booking can not be done as booking time is different than selected timeslot"
+msgstr "Sorry, Booking can not be done as booking time is different than selected timeslot"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4608
+#@ bookingpress-recurring-appointments
+msgid "Tax"
+msgstr "Tax"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4634
+#@ bookingpress-recurring-appointments
+msgid "Applied"
+msgstr "Applied"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4810
+#: core/classes/class.bookingpress-recurring-appointments.php:4811
+#@ bookingpress-recurring-appointments
+msgid "success"
+msgstr "success"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4935
+#: core/classes/class.bookingpress-recurring-appointments.php:4967
+#: core/classes/class.bookingpress-recurring-appointments.php:7091
+#@ bookingpress-recurring-appointments
+msgid "Repeat Appointment Label"
+msgstr "Repeat Appointment Label"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4936
+#: core/classes/class.bookingpress-recurring-appointments.php:4968
+#: core/classes/class.bookingpress-recurring-appointments.php:7095
+#@ bookingpress-recurring-appointments
+msgid "Sessions Title"
+msgstr "Sessions Title"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4937
+#: core/classes/class.bookingpress-recurring-appointments.php:4969
+#: core/classes/class.bookingpress-recurring-appointments.php:7063
+#: core/classes/class.bookingpress-recurring-appointments.php:7099
+#: core/classes/class.bookingpress-recurring-appointments.php:7570
+#@ bookingpress-recurring-appointments
+msgid "Start Date"
+msgstr "Start Date"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4939
+#: core/classes/class.bookingpress-recurring-appointments.php:4971
+#: core/classes/class.bookingpress-recurring-appointments.php:7065
+#: core/classes/class.bookingpress-recurring-appointments.php:7107
+#: core/classes/class.bookingpress-recurring-appointments.php:7572
+#@ bookingpress-recurring-appointments
+msgid "No of Sessions"
+msgstr "No of Sessions"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4941
+#: core/classes/class.bookingpress-recurring-appointments.php:4973
+#: core/classes/class.bookingpress-recurring-appointments.php:7067
+#: core/classes/class.bookingpress-recurring-appointments.php:7115
+#: core/classes/class.bookingpress-recurring-appointments.php:7574
+#@ bookingpress-recurring-appointments
+msgid "Apply"
+msgstr "Apply"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4945
+#: core/classes/class.bookingpress-recurring-appointments.php:4977
+#: core/classes/class.bookingpress-recurring-appointments.php:7131
+#@ bookingpress-recurring-appointments
+msgid "More Service Date Time Label"
+msgstr "More Service Date Time Label"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4951
+#: core/classes/class.bookingpress-recurring-appointments.php:7616
+#@ bookingpress-recurring-appointments
+msgid "Please select recurring start date."
+msgstr "Please select recurring start date."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4952
+#: core/classes/class.bookingpress-recurring-appointments.php:7617
+#@ bookingpress-recurring-appointments
+msgid "Please select recurring timeslot."
+msgstr "Please select recurring timeslot."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4953
+#: core/classes/class.bookingpress-recurring-appointments.php:7618
+#@ bookingpress-recurring-appointments
+msgid "Please select recurring no of session."
+msgstr "Please select recurring no of session."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4954
+#: core/classes/class.bookingpress-recurring-appointments.php:7619
+#@ bookingpress-recurring-appointments
+msgid "Please select recurring frequency."
+msgstr "Please select recurring frequency."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4955
+#: core/classes/class.bookingpress-recurring-appointments.php:7620
+#@ bookingpress-recurring-appointments
+msgid "Please add recurring appointment."
+msgstr "Please add recurring appointment."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4996
+#: core/classes/class.bookingpress-recurring-appointments.php:7089
+#@ bookingpress-recurring-appointments
+msgid "Recurring Labels"
+msgstr "Recurring Labels"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7074
+#: core/classes/class.bookingpress-recurring-appointments.php:7581
+#@ bookingpress-recurring-appointments
+msgid "Daily"
+msgstr "Daily"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7075
+#: core/classes/class.bookingpress-recurring-appointments.php:7582
+#@ bookingpress-recurring-appointments
+msgid "Weekly"
+msgstr "Weekly"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7076
+#: core/classes/class.bookingpress-recurring-appointments.php:7583
+#@ bookingpress-recurring-appointments
+msgid "Biweekly"
+msgstr "Biweekly"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7077
+#: core/classes/class.bookingpress-recurring-appointments.php:7584
+#@ bookingpress-recurring-appointments
+msgid "Monthly"
+msgstr "Monthly"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:6107
+#@ bookingpress-recurring-appointments
+msgid "Select Time"
+msgstr "Select Time"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7061
+#@ bookingpress-recurring-appointments
+msgid "Repeat appointment label"
+msgstr "Repeat appointment label"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7062
+#@ bookingpress-recurring-appointments
+msgid "Sessions title"
+msgstr "Sessions title"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7072
+#: core/classes/class.bookingpress-recurring-appointments.php:7580
+#@ bookingpress-recurring-appointments
+msgid "More"
+msgstr "More"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7262
+#@ bookingpress-recurring-appointments
+msgid "Please Select Recurring Frequency"
+msgstr "Please Select Recurring Frequency"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7267
+#@ bookingpress-recurring-appointments
+msgid "Please Select Default Recurring Frequency"
+msgstr "Please Select Default Recurring Frequency"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7305
+#@ bookingpress-recurring-appointments
+msgid "Enable Recurring Appointments"
+msgstr "Enable Recurring Appointments"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7332
+#@ bookingpress-recurring-appointments
+msgid "Recurring Frequencies"
+msgstr "Recurring Frequencies"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7343
+#@ bookingpress-recurring-appointments
+msgid "Default Recurring Frequencies"
+msgstr "Default Recurring Frequencies"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7375
+#: core/classes/class.bookingpress-recurring-appointments.php:7382
+#: core/classes/class.bookingpress-recurring-appointments.php:7389
+#: core/classes/class.bookingpress-recurring-appointments.php:7396
+#: core/classes/class.bookingpress-recurring-appointments.php:7403
+#: core/classes/class.bookingpress-recurring-appointments.php:7410
+#: core/classes/class.bookingpress-recurring-appointments.php:7417
+#: core/classes/class.bookingpress-recurring-appointments.php:7424
+#@ bookingpress-recurring-appointments
+msgid "Please enter message"
+msgstr "Please enter message"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7457
+#@ bookingpress-recurring-appointments
+msgid "Recurring Appointments"
+msgstr "Recurring Appointments"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7462
+#@ bookingpress-recurring-appointments
+msgid "Choose one of the payment options"
+msgstr "Choose one of the payment options"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7465
+#@ bookingpress-recurring-appointments
+msgid "Pay for the first appointment"
+msgstr "Pay for the first appointment"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7466
+#@ bookingpress-recurring-appointments
+msgid "Pay for all appointments"
+msgstr "Pay for all appointments"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7568
+#@ bookingpress-recurring-appointments
+msgid "Repeat appointment"
+msgstr "Repeat appointment"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2475
+#: core/classes/class.bookingpress-recurring-appointments.php:7569
+#@ bookingpress-recurring-appointments
+msgid "Sessions"
+msgstr "Sessions"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:593
+#@ bookingpress-recurring-appointments
+msgid "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress Cart Plugin to version 2.5 or higher."
+msgstr "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress Cart Plugin to version 2.5 or higher."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:605
+#@ bookingpress-recurring-appointments
+msgid "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - Invoice Plugin to version 1.9 or higher."
+msgstr "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - Invoice Plugin to version 1.9 or higher."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:611
+#@ bookingpress-recurring-appointments
+msgid "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - SMS Notification Plugin to version 1.8 or higher."
+msgstr "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - SMS Notification Plugin to version 1.8 or higher."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:617
+#@ bookingpress-recurring-appointments
+msgid "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - Tax Plugin to version 1.5 or higher."
+msgstr "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - Tax Plugin to version 1.5 or higher."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:623
+#@ bookingpress-recurring-appointments
+msgid "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - Waiting List Plugin to version 1.3 or higher."
+msgstr "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - Waiting List Plugin to version 1.3 or higher."
+
+#. translators: plugin header field 'Description'
+#: bookingpress-recurring-appointments.php:0
+#@ bookingpress-recurring-appointments
+msgid "An extension to easily book a series of appointments in few clicks"
+msgstr "An extension to easily book a series of appointments in few clicks"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:599
+#@ bookingpress-recurring-appointments
+msgid "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - Happy Hours Pricing Plugin to version 1.3 or higher."
+msgstr "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - Happy Hours Pricing Plugin to version 1.3 or higher."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:629
+#@ bookingpress-recurring-appointments
+msgid "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - WhatsApp Notification Plugin to version 1.7 or higher."
+msgstr "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - WhatsApp Notification Plugin to version 1.7 or higher."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:635
+#@ bookingpress-recurring-appointments
+msgid "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - Multi-Language Plugin to version 1.1 or higher."
+msgstr "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress - Multi-Language Plugin to version 1.1 or higher."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1060
+#@ bookingpress-recurring-appointments
+msgid "Please select time for not available appointment"
+msgstr "Please select time for not available appointment"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:1078
+#: core/classes/class.bookingpress-recurring-appointments.php:2174
+#: core/classes/class.bookingpress-recurring-appointments.php:4958
+#: core/classes/class.bookingpress-recurring-appointments.php:7623
+#@ bookingpress-recurring-appointments
+msgid "Selected or suggested time slot not available."
+msgstr "Selected or suggested time slot not available."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2119
+#@ bookingpress-recurring-appointments
+msgid "No Of Sessions"
+msgstr "No Of Sessions"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2174
+#: core/classes/class.bookingpress-recurring-appointments.php:4957
+#: core/classes/class.bookingpress-recurring-appointments.php:7622
+#@ bookingpress-recurring-appointments
+msgid "Suggested time slot due to unavailability."
+msgstr "Suggested time slot due to unavailability."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:2473
+#@ bookingpress-recurring-appointments
+msgid "Select Sessions"
+msgstr "Select Sessions"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4978
+#: core/classes/class.bookingpress-recurring-appointments.php:7135
+#@ bookingpress-recurring-appointments
+msgid "Daily Label"
+msgstr "Daily Label"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4979
+#: core/classes/class.bookingpress-recurring-appointments.php:7139
+#@ bookingpress-recurring-appointments
+msgid "Weekly Label"
+msgstr "Weekly Label"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4980
+#: core/classes/class.bookingpress-recurring-appointments.php:7143
+#@ bookingpress-recurring-appointments
+msgid "Biweekly Label"
+msgstr "Biweekly Label"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:4981
+#: core/classes/class.bookingpress-recurring-appointments.php:7147
+#@ bookingpress-recurring-appointments
+msgid "Monthly Label"
+msgstr "Monthly Label"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:588
+#@ bookingpress-recurring-appointments
+msgid "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress Pro Plugin to version 3.0.1 or higher."
+msgstr "BookingPress - Recurring Appointments Plugin Requires to update the BookingPress Pro Plugin to version 3.0.1 or higher."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7321
+#@ bookingpress-recurring-appointments
+msgid "Max no of occurance"
+msgstr "Max no of occurance"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7329
+#@ bookingpress-recurring-appointments
+msgid "Recurring Frequencies (You can select multiple options)"
+msgstr "Recurring Frequencies (You can select multiple options)"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7340
+#@ bookingpress-recurring-appointments
+msgid "Default Frequency"
+msgstr "Default Frequency"
+
+#. translators: plugin header field 'Version'
+#: bookingpress-recurring-appointments.php:0
+#@ bookingpress-recurring-appointments
+msgid "1.4"
+msgstr "1.4"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:358
+#: core/classes/class.bookingpress-recurring-appointments.php:371
+#: core/classes/class.bookingpress-recurring-appointments.php:402
+#: core/classes/class.bookingpress-recurring-appointments.php:413
+#: core/classes/class.bookingpress-recurring-appointments.php:7548
+#@ bookingpress-recurring-appointments
+msgid "Please activate license of BookingPress premium plugin to use BookingPress Recurring Appointments Add-on"
+msgstr "Please activate license of BookingPress premium plugin to use BookingPress Recurring Appointments Add-on"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:359
+#: core/classes/class.bookingpress-recurring-appointments.php:372
+#: core/classes/class.bookingpress-recurring-appointments.php:403
+#: core/classes/class.bookingpress-recurring-appointments.php:414
+#: core/classes/class.bookingpress-recurring-appointments.php:7549
+#, php-format
+#@ bookingpress-recurring-appointments
+msgid "Please %s Click Here %s to Continue"
+msgstr "Please %s Click Here %s to Continue"
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7503
+#: core/classes/class.bookingpress-recurring-appointments.php:7535
+#@ bookingpress-recurring-appointments
+msgid "An error occurred, please try again."
+msgstr "An error occurred, please try again."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7511
+#, php-format
+#@ bookingpress-recurring-appointments
+msgid "Your license key expired on %s."
+msgstr "Your license key expired on %s."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7516
+#@ bookingpress-recurring-appointments
+msgid "Your license key has been disabled."
+msgstr "Your license key has been disabled."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7519
+#@ bookingpress-recurring-appointments
+msgid "Invalid license."
+msgstr "Invalid license."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7523
+#@ bookingpress-recurring-appointments
+msgid "Your license is not active for this URL."
+msgstr "Your license is not active for this URL."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7526
+#: core/classes/class.bookingpress-recurring-appointments.php:7529
+#@ bookingpress-recurring-appointments
+msgid "This appears to be an invalid license key for your selected package."
+msgstr "This appears to be an invalid license key for your selected package."
+
+#: core/classes/class.bookingpress-recurring-appointments.php:7532
+#@ bookingpress-recurring-appointments
+msgid "Your license key has reached its activation limit."
+msgstr "Your license key has reached its activation limit."
+
+#. translators: the plugin name. 
+#: core/classes/class.bookingpress_pro_plugin_updater.php:257
+#, php-format
+#@ bookingpress-recurring-appointments
+msgid "There is a new version of %1$s available."
+msgstr "There is a new version of %1$s available."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:263
+#@ bookingpress-recurring-appointments
+msgid "Contact your network administrator to install the update."
+msgstr "Contact your network administrator to install the update."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate. 
+#: core/classes/class.bookingpress_pro_plugin_updater.php:268
+#, php-format
+#@ bookingpress-recurring-appointments
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sView version %2$s details%3$s."
+
+#. translators: 1. link for changelog 2. version name 3. opening anchor tag for update link 4. closing tag for update link
+#: core/classes/class.bookingpress_pro_plugin_updater.php:277
+#, php-format
+#@ bookingpress-recurring-appointments
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:288
+#@ bookingpress-recurring-appointments
+msgid "Update now."
+msgstr "Update now."
+
+#: core/classes/class.bookingpress_pro_plugin_updater.php:520
+#@ bookingpress-recurring-appointments
+msgid "You do not have permission to install plugin updates"
+msgstr "You do not have permission to install plugin updates"
+

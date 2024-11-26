@@ -1,0 +1,642 @@
+{
+    "version": "0.4",
+    "title": "FAQ",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "43f0ad81",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 600,
+                    "sizes": []
+                },
+                "min_height": {
+                    "unit": "vh",
+                    "size": 40,
+                    "sizes": []
+                },
+                "min_height_tablet": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "min_height_mobile": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "flex_justify_content": "center",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/car-cleaning-and-detailing-concept-dry-wash-2022-11-09-03-10-49-utc.jpg",
+                    "id": 170,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.8,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=6b465d5"
+                },
+                "_title": "Header Heading"
+            },
+            "elements": [
+                {
+                    "id": "4c8645b0",
+                    "settings": {
+                        "_title": "Edit Here"
+                    },
+                    "elements": [
+                        {
+                            "id": "1fd78107",
+                            "settings": {
+                                "ekit_heading_title": "FAQ",
+                                "ekit_heading_title_tag": "h1",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_heading_title_color_hover": "globals\/colors?id=primary",
+                                    "ekit_heading_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=accent",
+                                    "ekit_heading_focused_title_color_hover": "globals\/colors?id=accent",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=efd05f6"
+                                },
+                                "ekit_heading_title_align_tablet": "text_center",
+                                "ekit_heading_title_align": "text_center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "13da5368",
+                            "settings": {
+                                "editor": "<p><a href=\"#\">Home<\/a> &gt; \u00a0Faq<\/p>",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=accent",
+                                    "text_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "5516e9cf",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 900,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/tykit.rometheme.pro\/travice\/wp-content\/uploads\/sites\/127\/2023\/07\/Cartrack1.png",
+                    "id": 317,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "top left",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "initial",
+                "background_overlay_bg_width": {
+                    "unit": "vw",
+                    "size": 50,
+                    "sizes": []
+                },
+                "background_overlay_bg_width_tablet": {
+                    "unit": "vw",
+                    "size": "",
+                    "sizes": []
+                },
+                "background_overlay_bg_width_mobile": {
+                    "unit": "vw",
+                    "size": "",
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "_title": "FAQ"
+            },
+            "elements": [
+                {
+                    "id": "6f2305e8",
+                    "settings": {
+                        "title": "Frequently Asked Questions",
+                        "header_size": "h6",
+                        "align": "center"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "393e9d71",
+                    "settings": {
+                        "title": "heres our most question we get",
+                        "align": "center",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "5b29f280",
+                    "settings": {
+                        "editor": "<p>Etiam et elementum purus. In vitae blandit nunc, a commodo felis. Duis nec nunc eros. Donec non mauris dui. Etiam maximus mauris ac faucibus semper. Vivamus rhoncus pulvinar sem, ut placerat mi tincidunt id.<\/p>",
+                        "align": "center",
+                        "_margin": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_margin_tablet": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_margin_mobile": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "a36c642",
+                    "settings": {
+                        "ekit_accordion_items": [
+                            {
+                                "acc_title": "How often should I have my car professionally detailed ?",
+                                "acc_content": "<p>The frequency of professional car detailing depends on various factors such as your driving habits, weather conditions, and personal preference. As a general guideline, it is recommended to have your car detailed at least once or twice a year to maintain its appearance and protect its value.<\/p>",
+                                "ekit_acc_is_active": "yes",
+                                "_id": "8775c17"
+                            },
+                            {
+                                "acc_title": "Can car detailing remove scratches from my vehicle's paint ?",
+                                "acc_content": "<p>While car detailing can significantly improve the appearance of your vehicle's paint, it may not completely remove deep scratches. However, professional paint correction techniques used during detailing can diminish the visibility of minor scratches and swirl marks, restoring the paint's shine and smoothness.<\/p>",
+                                "_id": "cc8b13c"
+                            },
+                            {
+                                "acc_title": "How long does it take to detail a car ?",
+                                "acc_content": "<p>The time required for car detailing can vary depending on the size and condition of the vehicle, as well as the specific detailing services requested. On average, a thorough car detailing can take anywhere from a few hours to a full day. It's best to check with the detailing service provider for a more accurate estimate based on your vehicle's needs.<\/p>",
+                                "_id": "dc84192"
+                            },
+                            {
+                                "acc_title": "What types of car repair services do you offer ?",
+                                "acc_content": "<p>Our car repair services cover a wide range of mechanical and electrical issues. We provide diagnostics and repairs for engines, brakes, suspension systems, electrical systems, and more. Whether it's routine maintenance, troubleshooting a specific problem, or major repairs, our skilled technicians are equipped to handle various car repair needs.<\/p>",
+                                "_id": "3da8eff"
+                            },
+                            {
+                                "acc_title": "Do you offer mobile car detailing services ?",
+                                "acc_content": "<p>Yes, we offer mobile car detailing services for added convenience. Our professional detailing team can come to your preferred location, whether it's your home or workplace, and provide the same high-quality services right on-site.<\/p>",
+                                "_id": "49bc3f0"
+                            },
+                            {
+                                "acc_title": "What types of car repair services do you offer ?",
+                                "acc_content": "<p>We offer a wide range of car repair services, including engine diagnostics and repairs, brake system repairs, suspension repairs, electrical system diagnostics and repairs, and more. Our skilled technicians have the expertise to diagnose and resolve various mechanical and electrical issues.<\/p>",
+                                "_id": "3e0d4fd"
+                            },
+                            {
+                                "acc_title": "How do I know if my car needs repair or just regular maintenance ?",
+                                "acc_content": "<p>Regular maintenance includes tasks like oil changes, tire rotations, and filter replacements, which are scheduled based on your vehicle's recommended maintenance intervals. If you experience any unusual noises, warning lights, or performance issues, it's best to have your car inspected by a professional to determine if it requires repairs beyond routine maintenance.<\/p>",
+                                "_id": "d3b8a94"
+                            },
+                            {
+                                "acc_title": "Can you provide a cost estimate for car repairs without inspecting the vehicle ?",
+                                "acc_content": "<p>It is challenging to provide an accurate cost estimate without inspecting the vehicle and identifying the specific issue. Each repair can vary in complexity and parts required. We recommend bringing your car to our professional technicians for a thorough inspection to determine the exact repair needed and provide an accurate cost estimate.<\/p>",
+                                "_id": "9af6a4e"
+                            }
+                        ],
+                        "ekit_accordion_title_typography_typography": "custom",
+                        "ekit_accordion_title_typography_font_family": "Oswald",
+                        "ekit_accordion_title_typography_font_size": {
+                            "unit": "rem",
+                            "size": 1.1,
+                            "sizes": []
+                        },
+                        "ekit_accordion_title_typography_font_size_tablet": {
+                            "unit": "rem",
+                            "size": 1.1,
+                            "sizes": []
+                        },
+                        "ekit_accordion_title_typography_font_size_mobile": {
+                            "unit": "rem",
+                            "size": 0.85,
+                            "sizes": []
+                        },
+                        "ekit_accordion_title_typography_font_weight": "400",
+                        "ekit_accordion_title_typography_text_transform": "capitalize",
+                        "ekit_accordion_title_typography_line_height": {
+                            "unit": "em",
+                            "size": 1.1,
+                            "sizes": []
+                        },
+                        "ekit_accordion_title_typography_word_spacing": {
+                            "unit": "em",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "ekit_accordion_title_color": "#FFFFFF",
+                        "ekit_accordion_background_background": "classic",
+                        "ekit_accordion_background_color": "#222241",
+                        "ekit_accordion_title_color_close": "#B4B4B4",
+                        "ekit_accordion_background_close_background": "classic",
+                        "ekit_accordion_background_close_color": "#161629",
+                        "ekit_accordion_content_color": "#B4B4B4",
+                        "ekit_accordion_content_typography_typography": "custom",
+                        "ekit_accordion_content_typography_font_family": "Nunito Sans",
+                        "ekit_accordion_content_typography_font_size": {
+                            "unit": "rem",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "ekit_accordion_content_typography_font_size_tablet": {
+                            "unit": "rem",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "ekit_accordion_content_typography_font_size_mobile": {
+                            "unit": "rem",
+                            "size": 0.875,
+                            "sizes": []
+                        },
+                        "ekit_accordion_content_typography_font_weight": "400",
+                        "ekit_accordion_content_padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "ekit_accordion_content_padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "ekit_accordion_content_padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "ekit_accordion_title_color": "globals\/colors?id=primary",
+                            "ekit_accordion_background_color": "globals\/colors?id=6b465d5",
+                            "ekit_accordion_background_close_color": "globals\/colors?id=439d3aa",
+                            "ekit_accordion_title_color_close": "globals\/colors?id=text",
+                            "ekit_accordion_title_typography_typography": "globals\/typography?id=e64b5f8",
+                            "ekit_accordion_content_typography_typography": "globals\/typography?id=text",
+                            "ekit_accordion_content_color": "globals\/colors?id=text",
+                            "ekit_accordion_content_background_color": ""
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "elementskit-accordion",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "62514ac6",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 900,
+                    "sizes": []
+                },
+                "overflow": "hidden",
+                "padding": {
+                    "unit": "em",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "_title": "Support"
+            },
+            "elements": [
+                {
+                    "id": "278d6c22",
+                    "settings": {
+                        "title": "Still have any question ?",
+                        "align": "center"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "a8cac69",
+                    "settings": {
+                        "editor": "<p>Fusce sit amet porttitor est. Phasellus malesuada magna at varius tincidunt. Sed at semper dui. Nunc dictum ligula urna, eget placerat eros vestibulum eget. Donec molestie sapien id imperdiet laoreet.<\/p>",
+                        "align": "center",
+                        "_margin": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_margin_tablet": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_margin_mobile": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "117d4db2",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_title": "Contact"
+                    },
+                    "elements": [
+                        {
+                            "id": "7db93d7e",
+                            "settings": {
+                                "_title": "Phone"
+                            },
+                            "elements": [
+                                {
+                                    "id": "21f0ef6b",
+                                    "settings": {
+                                        "selected_icon": {
+                                            "value": "fas fa-phone-alt",
+                                            "library": "fa-solid"
+                                        },
+                                        "title_text": "+123-456-7890",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut elit tellus.",
+                                        "title_size": "h4",
+                                        "icon_space": {
+                                            "unit": "px",
+                                            "size": 10,
+                                            "sizes": []
+                                        },
+                                        "icon_size": {
+                                            "unit": "px",
+                                            "size": 35,
+                                            "sizes": []
+                                        },
+                                        "title_bottom_space": {
+                                            "unit": "px",
+                                            "size": 8,
+                                            "sizes": []
+                                        },
+                                        "_padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "_padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "_padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "_background_background": "classic",
+                                        "__globals__": {
+                                            "_background_color": "globals\/colors?id=439d3aa",
+                                            "primary_color": "globals\/colors?id=accent",
+                                            "hover_primary_color": "globals\/colors?id=accent"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "icon-box",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "77b0debf",
+                            "settings": {
+                                "_title": "Email"
+                            },
+                            "elements": [
+                                {
+                                    "id": "7b0b8b57",
+                                    "settings": {
+                                        "selected_icon": {
+                                            "value": "fas fa-envelope",
+                                            "library": "fa-solid"
+                                        },
+                                        "title_text": "hello@awesomesite.com",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut elit tellus.",
+                                        "title_size": "h4",
+                                        "icon_space": {
+                                            "unit": "px",
+                                            "size": 10,
+                                            "sizes": []
+                                        },
+                                        "icon_size": {
+                                            "unit": "px",
+                                            "size": 35,
+                                            "sizes": []
+                                        },
+                                        "title_bottom_space": {
+                                            "unit": "px",
+                                            "size": 8,
+                                            "sizes": []
+                                        },
+                                        "_padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "_padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "_padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "_background_background": "classic",
+                                        "__globals__": {
+                                            "_background_color": "globals\/colors?id=439d3aa",
+                                            "primary_color": "globals\/colors?id=accent",
+                                            "hover_primary_color": "globals\/colors?id=accent"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "icon-box",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_header_footer"
+    }
+}
